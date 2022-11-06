@@ -6,7 +6,7 @@
 
 # A.I. Greenhouse
 
-<img src="[https://github.com/your_image.png](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Cc_by-nc_icon.svg/1920px-Cc_by-nc_icon.svg.png)" alt="" width="500" height="250"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Cc_by-nc_icon.svg/1920px-Cc_by-nc_icon.svg.png" alt="" width="500" height="250"/>
 
 
 </div>
