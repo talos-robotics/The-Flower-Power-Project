@@ -2,9 +2,9 @@
 ![Alt text](images/flowerpower.png?raw=true "The Flower Power Project")
 
 
-# (The Robowheels project)
+# The Flower Power project
 
-# Αυτοματοποιημένο αναπηρικό αμαξίδιο
+# A.I. Greenhouse
 
 </div>
 
@@ -18,9 +18,9 @@
 
 ### Μαθητές
 
-*   Αναστασάκης Ιωάννης
-*   Ρουσιάκης Πέτρος
-*   Στραβοπόδη Κωνσταντίνα
+*   Α
+*   Ρ
+*   Σ
 
 </div>
 
