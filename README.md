@@ -6,7 +6,7 @@
 
 # A.I. Greenhouse
 
-![Alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Cc_by-nc_icon.svg/1920px-Cc_by-nc_icon.svg.png?raw=true "The Flower Power Project")
+![Alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Cc_by-nc_icon.svg/1920px-Cc_by-nc_icon.svg.png =500x250)
 
 </div>
 
