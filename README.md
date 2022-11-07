@@ -69,9 +69,16 @@
 
 |Είδος|Ποσότητα|Τιμή Μονάδας|Σύνολο|Περιγραφή|
 |---|---|---|---|---|
-|Waveshare Αισθητήρας Θερμοκρασίας-Υγρασίας DHT22|1|12.40|12.40||
-|Waveshare Αισθητήρας Υγρασίας Εδάφους|2|3.50|3.50||
+|Waveshare Αισθητήρας Θερμοκρασίας-Υγρασίας DHT22|1|12.40|12.40|https://grobotronics.com/waveshare-temperature-humidity-sensor-dht22.html|
+|Waveshare Αισθητήρας Υγρασίας Εδάφους|2|3.50|3.50|https://grobotronics.com/waveshare-moisture-sensor.html|
+|Αισθητήρας Υπερήχων 2 - 450cm HY-SRF05|1|3.60|3.60|https://grobotronics.com/ultrasonic-sensor-ranging-detector-2-450cm-hy-srf05.html|
+|Βάση Στήριξης για Αισθητήρα Υπερήχων|1|0.60|0.60|https://grobotronics.com/mounting-bracket-for-ultrasonic-sensor.html </BR> https://grobotronics.com/mounting-bracket-for-ultrasonic.html|
 ||||||
-
-
+||||||
+||||||
+||||||  
+||||||
+||||||
+||||||  
+  
 </div>
