@@ -73,9 +73,9 @@
 |Waveshare Αισθητήρας Υγρασίας Εδάφους|2|3.50|3.50|https://grobotronics.com/waveshare-moisture-sensor.html|
 |Αισθητήρας Υπερήχων 2 - 450cm HY-SRF05|1|3.60|3.60|https://grobotronics.com/ultrasonic-sensor-ranging-detector-2-450cm-hy-srf05.html|
 |Βάση Στήριξης για Αισθητήρα Υπερήχων|1|0.60|0.60|https://grobotronics.com/mounting-bracket-for-ultrasonic-sensor.html </BR> https://grobotronics.com/mounting-bracket-for-ultrasonic.html|
-||||||
-||||||
-||||||
+|Αισθητήρας Βροχής|1|1.80|1.80|https://grobotronics.com/rain-sensor-module.html|
+|Servo Standard 35kg.cm Metal Gears (Feetech FT5330M)|1|19.90|19.90|https://grobotronics.com/servo-standard-35kg.cm-metal-gears-feetech-ft5330m.html|
+|Μπαταρία Μολύβδου 12V 5Ah|1|1|12.40|https://grobotronics.com/lead-acid-battery-12v-4.5ah.html|
 ||||||  
 ||||||
 ||||||
