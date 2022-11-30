@@ -82,6 +82,12 @@
 |ESP8266 WiFi Module|2|5.80|11.60|https://grobotronics.com/esp8266-wifi-module.html?gclid=Cj0KCQiA-JacBhC0ARIsAIxybyNYA0tH3UiEIc26FbRdIKJJRJcm_Cx4USaUfbM0IsRuu1fY4SysfRUaAhMCEALw_wcB|  
 |Funduino Mega2560 Rev3 (Arduino Mega Compatible)|1|1|29.90|https://grobotronics.com/funduino-mega2560-rev3-arduino-mega-compatible.html|
 |NodeMCU - Lua based ESP8266|2|9.90|19.80|https://grobotronics.com/nodemcu-lua-based-esp8266.html|
-||||||  
+|Φωτοβολταϊκή Κυψέλη 10W 33x29cm|1|19.90|19.90|https://grobotronics.com/fotoboltaiki-kypseli-10w-33x29cm.html|
+|Solar Battery Charger Regulator 10A - Dual USB|1|13.00|13.00|https://grobotronics.com/solar-battery-charger-regulator-10a-dual-usb.html|
+||||||
+||||||
+||||||
+|||Σύνολο|115.5||
+|||||| 
   
 </div>
