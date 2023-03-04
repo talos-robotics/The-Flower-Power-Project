@@ -128,3 +128,49 @@ https://www.instructables.com/DHT11-With-Arduino/
 
 
 </div>
+
+
+
+<div>
+
+## Αισθητήρας Υγρασίας Εδάφους
+
+<img src="https://grobotronics.com/images/thumbnails/350/350/detailed/106/moisture_grobo.jpg" alt="" width="200" height="200"/>
+
+### Υλικό για μελέτη και τρόπος σύνδεσης
+
+https://www.instructables.com/DHT11-With-Arduino/
+
+[![Everything Is AWESOME](https://img.youtube.com/vi/xrchcjYsV1I/0.jpg)](https://www.youtube.com/watch?v=xrchcjYsV1I "Everything Is AWESOME")
+[![Everything Is AWESOME](https://img.youtube.com/vi/17PBh9JFKzE/0.jpg)](https://www.youtube.com/watch?v=17PBh9JFKzE "Everything Is AWESOME")
+
+<img src="https://www.diyengineers.com/wp-content/uploads/2021/01/Soil-Moisture-Sensor-Connections.png" alt="" width="600" height="400"/>
+  
+
+  |||
+  |--|--|
+  |VCC|2.0V ~ 5.0V|
+  |GND|power supply ground|
+  |AOUT|MCU.IO (analog output)|
+  
+</div>
+
+
+<div>
+
+## Servo
+
+<img src="https://grobotronics.com/images/thumbnails/350/350/detailed/118/hfe4c15bd1f4446558cd29e1a1951516ca_grobo.jpg" alt="" width="200" height="200"/>
+
+### Υλικό για μελέτη και τρόπος σύνδεσης
+
+https://docs.arduino.cc/learn/electronics/servo-motors
+
+[![Everything Is AWESOME](https://img.youtube.com/vi/SfmHNb5QAzc/0.jpg)](https://www.youtube.com/watch?v=SfmHNb5QAzc "Everything Is AWESOME")
+[![Everything Is AWESOME](https://img.youtube.com/vi/C_pWNQ6H9EE/0.jpg)](https://www.youtube.com/watch?v=C_pWNQ6H9EE "Everything Is AWESOME")
+
+<img src="https://www.makerguides.com/wp-content/uploads/2020/08/servo-motor-with-arduino-uno-wiring-diagram-schematic-circuit-tutorial-featured-image.png" alt="" width="600" height="400"/>
+  
+
+  
+</div>
