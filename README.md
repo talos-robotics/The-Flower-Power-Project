@@ -93,18 +93,38 @@
 </div>
 
 <div>
+
 ## Αισθητήρας βροχής
 
-<img src="https://hackster.imgix.net/uploads/attachments/781988/module-de-sonde-de-detection-temps-de-pluie-pour-arduino_ZymdMZ02r7.jpg?auto=compress&w=900&h=675&fit=min&fm=jpg" alt="" width="150" height="50"/>
+<img src="https://hackster.imgix.net/uploads/attachments/781988/module-de-sonde-de-detection-temps-de-pluie-pour-arduino_ZymdMZ02r7.jpg?auto=compress&w=900&h=675&fit=min&fm=jpg" alt="" width="200" height="150"/>
 
-### Υλικό για μελέτη
+### Υλικό για μελέτη και τρόπος σύνδεσης
 
 https://circuitdigest.com/microcontroller-projects/interfacing-rain-sensor-with-arduino
 
-{% include youtube.html id="kEd3I2nfKvg" %}
+[![Everything Is AWESOME](https://img.youtube.com/vi/kEd3I2nfKvg/0.jpg)](https://www.youtube.com/watch?v=kEd3I2nfKvg "Everything Is AWESOME")
+[![Everything Is AWESOME](https://img.youtube.com/vi/q6lpOm6b72E/0.jpg)](https://www.youtube.com/watch?v=q6lpOm6b72E "Everything Is AWESOME")
 
-https://www.youtube.com/watch?v=kEd3I2nfKvg
-https://www.youtube.com/watch?v=q6lpOm6b72E
+<img src="https://www.diyengineers.com/wp-content/uploads/2021/01/Rain-Sensor-Connections.png" alt="" width="900" height="447"/>
+
+
+</div>
+
+
+<div>
+
+## Αισθητήρας Υγρασίας & Θερμοκρασίας DHT11
+
+<img src="https://grobotronics.com/images/thumbnails/350/350/detailed/104/dht11-temperature-and-humidity-sensor-module-for-arduino_projectshopbd_grobo.jpg" alt="" width="200" height="200"/>
+
+### Υλικό για μελέτη και τρόπος σύνδεσης
+
+https://www.instructables.com/DHT11-With-Arduino/
+
+[![Everything Is AWESOME](https://img.youtube.com/vi/OogldLc9uYc/0.jpg)](https://www.youtube.com/watch?v=OogldLc9uYc "Everything Is AWESOME")
+[![Everything Is AWESOME](https://img.youtube.com/vi/zmOc7oATtiY/0.jpg)](https://www.youtube.com/watch?v=zmOc7oATtiY "Everything Is AWESOME")
+
+<img src="https://hackster.imgix.net/uploads/attachments/1121112/untitled_sketch_bb_v2r5RgH7Uz.png?auto=compress%2Cformat&w=1280&h=960&fit=max" alt="" width="600" height="400"/>
 
 
 </div>
