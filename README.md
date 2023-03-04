@@ -93,13 +93,16 @@
 </div>
 
 <div>
-##Αισθητήρας βροχής
+## Αισθητήρας βροχής
 
 <img src="https://hackster.imgix.net/uploads/attachments/781988/module-de-sonde-de-detection-temps-de-pluie-pour-arduino_ZymdMZ02r7.jpg?auto=compress&w=900&h=675&fit=min&fm=jpg" alt="" width="150" height="50"/>
 
-###Υλικό για μελέτη
+### Υλικό για μελέτη
 
 https://circuitdigest.com/microcontroller-projects/interfacing-rain-sensor-with-arduino
+
+{% include youtube.html id="kEd3I2nfKvg" %}
+
 https://www.youtube.com/watch?v=kEd3I2nfKvg
 https://www.youtube.com/watch?v=q6lpOm6b72E
 
