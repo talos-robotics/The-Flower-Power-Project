@@ -46,7 +46,7 @@
 ## Φάση προετοιμασίας
 
 Οι μαθητές θα πρέπει να:  
-• Διερευνήσουν στο διαδίκτυο και να ανακαλύψουν τις ανάγκες των ατόμων με κινητικά προβλήματα.  
+• Διερευνήσουν στο διαδίκτυο σχετικά.  
 • Συντάξουν ένα έντυπο όπου θα περιγράφουν τις προδιαγραφές του project.  
 • Να αναζητήσουν στο διαδίκτυο πληροφορίες για τους αισθητήρες που θα χρησιμοποιήσουμε.  
 
@@ -209,6 +209,24 @@ https://arduinogetstarted.com/tutorials/arduino-relay
 <img src="https://www.makerguides.com/wp-content/uploads/2022/02/How-To-Use-A-Relay-With-Arduino.jpg" alt="" width="600" height="400"/>
 <img src="https://circuits4you.com/wp-content/uploads/2017/10/Arduino_KY-019_5v_relay_module_connections-1024x652.png" alt="" width="600" height="400"/>
   
+
+  
+</div>
+
+
+
+<div>
+
+# $\fbox{App Inventor Serial port programming}$
+
+<img src="https://appinventor.mit.edu/images/logo.png" alt="" width="200" height="200"/>
+
+### Υλικό για μελέτη και τρόπος σύνδεσης
+
+
+[![Everything Is AWESOME](https://img.youtube.com/vi/5iOG3Ko9OCY/0.jpg)](https://www.youtube.com/watch?v=5iOG3Ko9OCY "Everything Is AWESOME") [![Everything Is AWESOME](https://img.youtube.com/vi/mwsASZ3K-RQ/0.jpg)](https://www.youtube.com/watch?v=mwsASZ3K-RQ "Everything Is AWESOME")
+
+ 
 
   
 </div>
