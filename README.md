@@ -109,6 +109,37 @@ https://circuitdigest.com/microcontroller-projects/interfacing-rain-sensor-with-
 
 </div>
 
+### Κώδικας
+
+```C 
+
+// Sensor pins pin D6 LED output, pin A0 analog Input
+#define ledPin 6
+#define sensorPin A0
+
+void setup() {
+  Serial.begin(9600);
+  pinMode(ledPin, OUTPUT);
+  digitalWrite(ledPin, LOW);
+}
+
+void loop() {
+  Serial.print("Analog output: ");
+  Serial.println(readSensor());
+  delay(500);
+}
+
+int readSensor() {
+  int sensorValue = analogRead(sensorPin);  // Read the analog value from sensor
+  int outputValue = map(sensorValue, 0, 1023, 255, 0); // map the 10-bit data to 8-bit data
+  analogWrite(ledPin, outputValue); // generate PWM signal
+  return outputValue;             // Return analog moisture value
+}
+
+
+``` 
+
+
 
 <div>
 
@@ -121,6 +152,8 @@ https://circuitdigest.com/microcontroller-projects/interfacing-rain-sensor-with-
 
 https://www.instructables.com/DHT11-With-Arduino/
 
+https://www.hackster.io/mafzal/temperature-monitoring-with-dht22-arduino-15b013
+
 [![Everything Is AWESOME](https://img.youtube.com/vi/OogldLc9uYc/0.jpg)](https://www.youtube.com/watch?v=OogldLc9uYc "Everything Is AWESOME") [![Everything Is AWESOME](https://img.youtube.com/vi/zmOc7oATtiY/0.jpg)](https://www.youtube.com/watch?v=zmOc7oATtiY "Everything Is AWESOME")
 
 <img src="https://hackster.imgix.net/uploads/attachments/1121112/untitled_sketch_bb_v2r5RgH7Uz.png?auto=compress%2Cformat&w=1280&h=960&fit=max" alt="" width="600" height="400"/>
@@ -128,7 +161,45 @@ https://www.instructables.com/DHT11-With-Arduino/
 
 </div>
 
+### Κώδικας
 
+```C 
+
+#include <DHT.h>;
+
+//Constants
+#define DHTPIN 7     // what pin we're connected to
+#define DHTTYPE DHT22   // DHT 22  (AM2302)
+DHT dht(DHTPIN, DHTTYPE); //// Initialize DHT sensor for normal 16mhz Arduino
+
+
+//Variables
+int chk;
+float hum;  //Stores humidity value
+float temp; //Stores temperature value
+
+void setup()
+{
+  Serial.begin(9600);
+  dht.begin();
+}
+
+void loop()
+{
+    delay(2000);
+    //Read data and store it to variables hum and temp
+    hum = dht.readHumidity();
+    temp= dht.readTemperature();
+    //Print temp and humidity values to serial monitor
+    Serial.print("Humidity: ");
+    Serial.print(hum);
+    Serial.print(" %, Temp: ");
+    Serial.print(temp);
+    Serial.println(" Celsius");
+    delay(10000); //Delay 2 sec.
+}
+
+```
 
 <div>
 
@@ -141,6 +212,11 @@ https://www.instructables.com/DHT11-With-Arduino/
 
 https://www.instructables.com/DHT11-With-Arduino/
 
+https://www.waveshare.com/wiki/Moisture_Sensor
+
+https://arduinogetstarted.com/tutorials/arduino-soil-moisture-sensor
+
+
 [![Everything Is AWESOME](https://img.youtube.com/vi/xrchcjYsV1I/0.jpg)](https://www.youtube.com/watch?v=xrchcjYsV1I "Everything Is AWESOME") [![Everything Is AWESOME](https://img.youtube.com/vi/17PBh9JFKzE/0.jpg)](https://www.youtube.com/watch?v=17PBh9JFKzE "Everything Is AWESOME")
 
 <img src="https://www.diyengineers.com/wp-content/uploads/2021/01/Soil-Moisture-Sensor-Connections.png" alt="" width="600" height="400"/>
@@ -152,8 +228,38 @@ https://www.instructables.com/DHT11-With-Arduino/
   |GND|power supply ground|
   |AOUT|MCU.IO (analog output)|
   
+  
+ 
+  
 </div>
 
+### Κώδικας
+
+```C
+
+#define AOUT_PIN A0 // Arduino pin that connects to AOUT pin of moisture sensor
+#define THRESHOLD 100 // CHANGE YOUR THRESHOLD HERE
+
+void setup() {
+  Serial.begin(9600);
+}
+
+void loop() {
+  int value = analogRead(AOUT_PIN); // read the analog value from sensor
+
+  if (value < THRESHOLD)
+    Serial.print("The soil is DRY (");
+  else
+    Serial.print("The soil is WET (");
+
+  Serial.print(value);
+  Serial.println(")");
+
+
+  delay(500);
+}
+
+```
 
 <div>
 
@@ -165,6 +271,8 @@ https://www.instructables.com/DHT11-With-Arduino/
 
 https://docs.arduino.cc/learn/electronics/servo-motors
 
+https://www.instructables.com/Arduino-Servo-Motors/
+
 [![Everything Is AWESOME](https://img.youtube.com/vi/SfmHNb5QAzc/0.jpg)](https://www.youtube.com/watch?v=SfmHNb5QAzc "Everything Is AWESOME") [![Everything Is AWESOME](https://img.youtube.com/vi/C_pWNQ6H9EE/0.jpg)](https://www.youtube.com/watch?v=C_pWNQ6H9EE "Everything Is AWESOME")
 
 <img src="https://www.makerguides.com/wp-content/uploads/2020/08/servo-motor-with-arduino-uno-wiring-diagram-schematic-circuit-tutorial-featured-image.png" alt="" width="600" height="400"/>
@@ -172,6 +280,34 @@ https://docs.arduino.cc/learn/electronics/servo-motors
 
   
 </div>
+
+### Κώδικας
+
+```C 
+
+#include <Servo.h> 
+// Declare the Servo pin 
+int servoPin = 3; 
+// Create a servo object 
+Servo Servo1; 
+void setup() { 
+   // We need to attach the servo to the used pin number 
+   Servo1.attach(servoPin); 
+}
+void loop(){ 
+   // Make servo go to 0 degrees 
+   Servo1.write(0); 
+   delay(1000); 
+   // Make servo go to 90 degrees 
+   Servo1.write(90); 
+   delay(1000); 
+   // Make servo go to 180 degrees 
+   Servo1.write(180); 
+   delay(1000); 
+}
+
+```
+
 
 <div>
 
@@ -183,19 +319,55 @@ https://docs.arduino.cc/learn/electronics/servo-motors
 ### Υλικό για μελέτη και τρόπος σύνδεσης
 
 https://howtomechatronics.com/tutorials/arduino/ultrasonic-sensor-hc-sr04/?utm_content=cmp-true
+https://www.hackster.io/Nicholas_N/distance-measurement-with-an-ultrasonic-sensor-hy-srf05-64554e
 
 [![Everything Is AWESOME](https://img.youtube.com/vi/QI9541YQq7M/0.jpg)](https://www.youtube.com/watch?v=QI9541YQq7M "Everything Is AWESOME") [![Everything Is AWESOME](https://img.youtube.com/vi/Q6tjpVwaUR4/0.jpg)](https://www.youtube.com/watch?v=Q6tjpVwaUR4 "Everything Is AWESOME")
 
 <img src="https://www.makerguides.com/wp-content/uploads/2019/05/HC-SR04-ultrasonic-distance-sensor-with-Arduino-wiring-diagram-schematic-tutorial.jpg" alt="" width="600" height="400"/>
+
+ 
+</div>
+
+### Κώδικας
+
+```C 
+const unsigned int TRIG_PIN=13;
+const unsigned int ECHO_PIN=12;
+const unsigned int BAUD_RATE=9600;
+
+void setup() {
+  pinMode(TRIG_PIN, OUTPUT);
+  pinMode(ECHO_PIN, INPUT);
+  Serial.begin(BAUD_RATE);
+}
+
+void loop() {
+  digitalWrite(TRIG_PIN, LOW);
+  delayMicroseconds(2);
+  digitalWrite(TRIG_PIN, HIGH);
+  delayMicroseconds(10);
+  digitalWrite(TRIG_PIN, LOW);
   
 
+ const unsigned long duration= pulseIn(ECHO_PIN, HIGH);
+ int distance= duration/29/2;
+ if(duration==0){
+   Serial.println("Warning: no pulse from sensor");
+   } 
+  else{
+      Serial.print("distance to nearest object:");
+      Serial.println(distance);
+      Serial.println(" cm");
+  }
+ delay(100);
+ }
   
-</div>
+  ```
+
 
 # $\fbox{Relay}$
 
 <div>
-
 
 
 <img src="https://europe1.discourse-cdn.com/arduino/original/4X/3/9/6/396edf9efda0b0051a98ec6ce5b640a300490a92.jpeg" alt="" width="200" height="200"/>
@@ -204,16 +376,37 @@ https://howtomechatronics.com/tutorials/arduino/ultrasonic-sensor-hc-sr04/?utm_c
 
 https://arduinogetstarted.com/tutorials/arduino-relay
 
+https://arduinogetstarted.com/tutorials/arduino-relay
+
 [![Everything Is AWESOME](https://img.youtube.com/vi/58XWVDnB7Ss/0.jpg)](https://www.youtube.com/watch?v=58XWVDnB7Ss "Everything Is AWESOME") [![Everything Is AWESOME](https://img.youtube.com/vi/7tUGUXyloXQ/0.jpg)](https://www.youtube.com/watch?v=7tUGUXyloXQ "Everything Is AWESOME")
 
 <img src="https://www.makerguides.com/wp-content/uploads/2022/02/How-To-Use-A-Relay-With-Arduino.jpg" alt="" width="600" height="400"/>
 <img src="https://circuits4you.com/wp-content/uploads/2017/10/Arduino_KY-019_5v_relay_module_connections-1024x652.png" alt="" width="600" height="400"/>
-  
-
-  
+    
 </div>
 
+### Κώδικας
 
+```C
+
+// constants won't change
+const int RELAY_PIN = 3;  // the Arduino pin, which connects to the IN pin of relay
+
+// the setup function runs once when you press reset or power the board
+void setup() {
+  // initialize digital pin as an output.
+  pinMode(RELAY_PIN, OUTPUT);
+}
+
+// the loop function runs over and over again forever
+void loop() {
+  digitalWrite(RELAY_PIN, HIGH);
+  delay(500);
+  digitalWrite(RELAY_PIN, LOW);
+  delay(500);
+}
+
+```
 
 <div>
 
