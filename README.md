@@ -423,3 +423,22 @@ void loop() {
 
   
 </div>
+
+
+
+<div>
+
+# $\fbox{Φωτογραφικό υλικό}$
+
+
+
+### Εργαστήριο πληροφορικής
+
+|<img src="/images/logo.png" alt="" width="200" height="200"/>|<img src="/images/logo.png" alt="" width="200" height="200"/>|<img src="/images/logo.png" alt="" width="200" height="200"/>|<img src="/images/logo.png" alt="" width="200" height="200"/>|
+|||||
+|||||
+|||||
+  
+  
+</div>
+
