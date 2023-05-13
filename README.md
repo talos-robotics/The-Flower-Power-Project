@@ -433,11 +433,13 @@ void loop() {
 
 
 ### Εργαστήριο πληροφορικής
-
-|<img src="/images/logo.png" alt="" width="200" height="200"/>|<img src="/images/logo.png" alt="" width="200" height="200"/>|<img src="/images/logo.png" alt="" width="200" height="200"/>|<img src="/images/logo.png" alt="" width="200" height="200"/>|
+  
 |||||
-|||||
-|||||
+|---|---|---|---|
+|<img src="/images/1.jpg" alt="" width="200" height="200"/>|<img src="/images/2.jpg" alt="" width="200" height="200"/>|<img src="/images/3.jpg" alt="" width="200" height="200"/>|<img src="/images/4.jpg" alt="" width="200" height="200"/>|
+|<img src="/images/5.jpg" alt="" width="200" height="200"/>|<img src="/images/6.jpg" alt="" width="200" height="200"/>|<img src="/images/7.jpg" alt="" width="200" height="200"/>|<img src="/images/8.jpg" alt="" width="200" height="200"/>|
+|<img src="/images/9.jpg" alt="" width="200" height="200"/>|<img src="/images/10.jpg" alt="" width="200" height="200"/>|<img src="/images/11.jpg" alt="" width="200" height="200"/>|<img src="/images/12.jpg" alt="" width="200" height="200"/>|
+|<img src="/images/13.jpg" alt="" width="200" height="200"/>|<img src="/images/14.jpg" alt="" width="200" height="200"/>|<img src="/images/15.jpg" alt="" width="200" height="200"/>|<img src="/images/16.jpg" alt="" width="200" height="200"/>|
   
   
 </div>
