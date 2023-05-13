@@ -436,10 +436,10 @@ void loop() {
   
 |||||
 |---|---|---|---|
-|<img src="/images/1.jpg" alt="" width="200" height="200"/>|<img src="/images/2.jpg" alt="" width="200" height="200"/>|<img src="/images/3.jpg" alt="" width="200" height="200"/>|<img src="/images/4.jpg" alt="" width="200" height="200"/>|
-|<img src="/images/5.jpg" alt="" width="200" height="200"/>|<img src="/images/6.jpg" alt="" width="200" height="200"/>|<img src="/images/7.jpg" alt="" width="200" height="200"/>|<img src="/images/8.jpg" alt="" width="200" height="200"/>|
-|<img src="/images/9.jpg" alt="" width="200" height="200"/>|<img src="/images/10.jpg" alt="" width="200" height="200"/>|<img src="/images/11.jpg" alt="" width="200" height="200"/>|<img src="/images/12.jpg" alt="" width="200" height="200"/>|
-|<img src="/images/13.jpg" alt="" width="200" height="200"/>|<img src="/images/14.jpg" alt="" width="200" height="200"/>|<img src="/images/15.jpg" alt="" width="200" height="200"/>|<img src="/images/16.jpg" alt="" width="200" height="200"/>|
+|<img src="/Photos/1.png" alt="" width="200" height="200"/>|<img src="/Photos/2.png" alt="" width="200" height="200"/>|<img src="/Photos/3.jpg" alt="" width="200" height="200"/>|<img src="/Photos/4.jpg" alt="" width="200" height="200"/>|
+|<img src="/Photos/5.jpg" alt="" width="200" height="200"/>|<img src="/Photos/6.jpg" alt="" width="200" height="200"/>|<img src="/Photos/7.jpg" alt="" width="200" height="200"/>|<img src="/Photos/8.jpg" alt="" width="200" height="200"/>|
+|<img src="/Photos/9.jpg" alt="" width="200" height="200"/>|<img src="/Photos/10.jpg" alt="" width="200" height="200"/>|<img src="/Photos/11.jpg" alt="" width="200" height="200"/>|<img src="/Photos/12.jpg" alt="" width="200" height="200"/>|
+|<img src="/Photos/13.jpg" alt="" width="200" height="200"/>|<img src="/Photos/14.jpg" alt="" width="200" height="200"/>|<img src="/Photos/15.jpg" alt="" width="200" height="200"/>|<img src="/Photos/16.jpg" alt="" width="200" height="200"/>|
   
   
 </div>
