@@ -101,8 +101,15 @@
 ### Υλικό για μελέτη και τρόπος σύνδεσης
 
 https://circuitdigest.com/microcontroller-projects/interfacing-rain-sensor-with-arduino
-
-[![Everything Is AWESOME](https://img.youtube.com/vi/kEd3I2nfKvg/0.jpg)](https://www.youtube.com/watch?v=kEd3I2nfKvg "Everything Is AWESOME") [![Everything Is AWESOME](https://img.youtube.com/vi/q6lpOm6b72E/0.jpg)](https://www.youtube.com/watch?v=q6lpOm6b72E "Everything Is AWESOME")
+  
+  <div align="left">
+      <a href="https://www.youtube.com/watch?v=kEd3I2nfKvg">
+         <img src="https://img.youtube.com/vi/kEd3I2nfKvg/0.jpg" style="width:30%;">
+      </a>
+    <a href="https://www.youtube.com/watch?v=q6lpOm6b72E">
+         <img src="https://img.youtube.com/vi/q6lpOm6b72E/0.jpg" style="width:30%;">
+      </a>
+</div>
 
 <img src="https://www.diyengineers.com/wp-content/uploads/2021/01/Rain-Sensor-Connections.png" alt="" width="900" height="447"/>
 
@@ -153,8 +160,15 @@ int readSensor() {
 https://www.instructables.com/DHT11-With-Arduino/
 
 https://www.hackster.io/mafzal/temperature-monitoring-with-dht22-arduino-15b013
-
-[![Everything Is AWESOME](https://img.youtube.com/vi/OogldLc9uYc/0.jpg)](https://www.youtube.com/watch?v=OogldLc9uYc "Everything Is AWESOME") [![Everything Is AWESOME](https://img.youtube.com/vi/zmOc7oATtiY/0.jpg)](https://www.youtube.com/watch?v=zmOc7oATtiY "Everything Is AWESOME")
+  
+  <div align="left">
+      <a href="https://www.youtube.com/watch?v=OogldLc9uYc">
+         <img src="https://img.youtube.com/vi/OogldLc9uYc/0.jpg" style="width:30%;">
+      </a>
+    <a href="https://www.youtube.com/watch?v=zmOc7oATtiY">
+         <img src="https://img.youtube.com/vi/zmOc7oATtiY/0.jpg" style="width:30%;">
+      </a>
+</div>
 
 <img src="https://hackster.imgix.net/uploads/attachments/1121112/untitled_sketch_bb_v2r5RgH7Uz.png?auto=compress%2Cformat&w=1280&h=960&fit=max" alt="" width="600" height="400"/>
 
@@ -215,9 +229,15 @@ https://www.instructables.com/DHT11-With-Arduino/
 https://www.waveshare.com/wiki/Moisture_Sensor
 
 https://arduinogetstarted.com/tutorials/arduino-soil-moisture-sensor
-
-
-[![Everything Is AWESOME](https://img.youtube.com/vi/xrchcjYsV1I/0.jpg)](https://www.youtube.com/watch?v=xrchcjYsV1I "Everything Is AWESOME") [![Everything Is AWESOME](https://img.youtube.com/vi/17PBh9JFKzE/0.jpg)](https://www.youtube.com/watch?v=17PBh9JFKzE "Everything Is AWESOME")
+  
+  <div align="left">
+      <a href="https://www.youtube.com/watch?v=xrchcjYsV1I">
+         <img src="https://img.youtube.com/vi/xrchcjYsV1I/0.jpg" style="width:30%;">
+      </a>
+    <a href="https://www.youtube.com/watch?v=17PBh9JFKzE">
+         <img src="https://img.youtube.com/vi/17PBh9JFKzE/0.jpg" style="width:30%;">
+      </a>
+</div>
 
 <img src="https://www.diyengineers.com/wp-content/uploads/2021/01/Soil-Moisture-Sensor-Connections.png" alt="" width="600" height="400"/>
   
@@ -273,7 +293,15 @@ https://docs.arduino.cc/learn/electronics/servo-motors
 
 https://www.instructables.com/Arduino-Servo-Motors/
 
-[![ ](https://img.youtube.com/vi/SfmHNb5QAzc/0.jpg)](https://www.youtube.com/watch?v=SfmHNb5QAzc " ") [![ ](https://img.youtube.com/vi/C_pWNQ6H9EE/0.jpg)](https://www.youtube.com/watch?v=C_pWNQ6H9EE " ")
+
+  <div align="left">
+      <a href="https://www.youtube.com/watch?v=SfmHNb5QAzc">
+         <img src="https://img.youtube.com/vi/SfmHNb5QAzc/0.jpg" style="width:30%;">
+      </a>
+    <a href="https://www.youtube.com/watch?v=C_pWNQ6H9EE">
+         <img src="https://img.youtube.com/vi/C_pWNQ6H9EE/0.jpg" style="width:30%;">
+      </a>
+</div>
 
 <img src="https://www.makerguides.com/wp-content/uploads/2020/08/servo-motor-with-arduino-uno-wiring-diagram-schematic-circuit-tutorial-featured-image.png" alt="" width="600" height="400"/>
   
@@ -321,7 +349,15 @@ void loop(){
 https://howtomechatronics.com/tutorials/arduino/ultrasonic-sensor-hc-sr04/?utm_content=cmp-true
 https://www.hackster.io/Nicholas_N/distance-measurement-with-an-ultrasonic-sensor-hy-srf05-64554e
 
-[![Everything Is AWESOME](https://img.youtube.com/vi/QI9541YQq7M/0.jpg)](https://www.youtube.com/watch?v=QI9541YQq7M "Everything Is AWESOME") [![Everything Is AWESOME](https://img.youtube.com/vi/Q6tjpVwaUR4/0.jpg)](https://www.youtube.com/watch?v=Q6tjpVwaUR4 "Everything Is AWESOME")
+  
+  <div align="left">
+      <a href="https://www.youtube.com/watch?v=QI9541YQq7M">
+         <img src="https://img.youtube.com/vi/QI9541YQq7M/0.jpg" style="width:30%;">
+      </a>
+    <a href="https://www.youtube.com/watch?v=Q6tjpVwaUR4">
+         <img src="https://img.youtube.com/vi/Q6tjpVwaUR4/0.jpg" style="width:30%;">
+      </a>
+</div>
 
 <img src="https://www.makerguides.com/wp-content/uploads/2019/05/HC-SR04-ultrasonic-distance-sensor-with-Arduino-wiring-diagram-schematic-tutorial.jpg" alt="" width="600" height="400"/>
 
@@ -378,8 +414,15 @@ https://arduinogetstarted.com/tutorials/arduino-relay
 
 https://arduinogetstarted.com/tutorials/arduino-relay
 
-[![Everything Is AWESOME](https://img.youtube.com/vi/58XWVDnB7Ss/0.jpg)](https://www.youtube.com/watch?v=58XWVDnB7Ss "Everything Is AWESOME") [![Everything Is AWESOME](https://img.youtube.com/vi/7tUGUXyloXQ/0.jpg)](https://www.youtube.com/watch?v=7tUGUXyloXQ "Everything Is AWESOME")
-
+  <div align="left">
+      <a href="https://www.youtube.com/watch?v=58XWVDnB7S">
+         <img src="https://img.youtube.com/vi/58XWVDnB7Ss/0.jpg" style="width:30%;">
+      </a>
+    <a href="https://www.youtube.com/watch?v=7tUGUXyloXQ">
+         <img src="https://img.youtube.com/vi/7tUGUXyloXQ/0.jpg" style="width:30%;">
+      </a>
+</div>
+  
 <img src="https://www.makerguides.com/wp-content/uploads/2022/02/How-To-Use-A-Relay-With-Arduino.jpg" alt="" width="600" height="400"/>
 <img src="https://circuits4you.com/wp-content/uploads/2017/10/Arduino_KY-019_5v_relay_module_connections-1024x652.png" alt="" width="600" height="400"/>
     
