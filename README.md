@@ -410,6 +410,19 @@ void loop() {
 
 <div>
 
+# $\fbox{Τελικός κώδικας}$
+
+
+
+### Διάγραμμα ροής
+  
+<img src="/images/flower power flowchart.png" alt="" width="300" height="700"/>
+  
+</div>
+
+
+<div>
+
 # $\fbox{App Inventor Serial port programming}$
 
 <img src="https://appinventor.mit.edu/images/logo.png" alt="" width="200" height="200"/>
@@ -418,8 +431,6 @@ void loop() {
 
 
 [![Everything Is AWESOME](https://img.youtube.com/vi/5iOG3Ko9OCY/0.jpg)](https://www.youtube.com/watch?v=5iOG3Ko9OCY "Everything Is AWESOME") [![Everything Is AWESOME](https://img.youtube.com/vi/mwsASZ3K-RQ/0.jpg)](https://www.youtube.com/watch?v=mwsASZ3K-RQ "Everything Is AWESOME")
-
- 
 
   
 </div>
