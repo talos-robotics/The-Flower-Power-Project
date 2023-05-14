@@ -77,22 +77,20 @@
 
 |Είδος|Ποσότητα|Τιμή Μονάδας|Σύνολο|Περιγραφή|
 |---|---|---|---|---|
-|Waveshare Αισθητήρας Θερμοκρασίας-Υγρασίας DHT22|1|12.40|12.40|https://grobotronics.com/waveshare-temperature-humidity-sensor-dht22.html|
-|Waveshare Αισθητήρας Υγρασίας Εδάφους|2|3.50|3.50|https://grobotronics.com/waveshare-moisture-sensor.html|
-|Αισθητήρας Υπερήχων 2 - 450cm HY-SRF05|1|3.60|3.60|https://grobotronics.com/ultrasonic-sensor-ranging-detector-2-450cm-hy-srf05.html|
-|Βάση Στήριξης για Αισθητήρα Υπερήχων|1|0.60|0.60|https://grobotronics.com/mounting-bracket-for-ultrasonic-sensor.html </BR> https://grobotronics.com/mounting-bracket-for-ultrasonic.html|
-|Αισθητήρας Βροχής|1|1.80|1.80|https://grobotronics.com/rain-sensor-module.html|
-|Servo Standard 35kg.cm Metal Gears (Feetech FT5330M)|1|19.90|19.90|https://grobotronics.com/servo-standard-35kg.cm-metal-gears-feetech-ft5330m.html|
-|Μπαταρία Μολύβδου 12V 5Ah|1|12.40|12.40|https://grobotronics.com/lead-acid-battery-12v-4.5ah.html|
-|ESP8266 WiFi Module|2|5.80|11.60|https://grobotronics.com/esp8266-wifi-module.html?gclid=Cj0KCQiA-JacBhC0ARIsAIxybyNYA0tH3UiEIc26FbRdIKJJRJcm_Cx4USaUfbM0IsRuu1fY4SysfRUaAhMCEALw_wcB|  
-|Funduino Mega2560 Rev3 (Arduino Mega Compatible)|1|1|29.90|https://grobotronics.com/funduino-mega2560-rev3-arduino-mega-compatible.html|
-|NodeMCU - Lua based ESP8266|2|9.90|19.80|https://grobotronics.com/nodemcu-lua-based-esp8266.html|
-|Φωτοβολταϊκή Κυψέλη 10W 33x29cm|1|19.90|19.90|https://grobotronics.com/fotoboltaiki-kypseli-10w-33x29cm.html|
-|Solar Battery Charger Regulator 10A - Dual USB|1|13.00|13.00|https://grobotronics.com/solar-battery-charger-regulator-10a-dual-usb.html|
+|<img src="https://grobotronics.com/images/thumbnails/350/350/detailed/106/wavedhttt_grobo.jpg" style="width:30%;"></BR>Waveshare Αισθητήρας Θερμοκρασίας-Υγρασίας DHT22|1|12.40|12.40|https://grobotronics.com/waveshare-temperature-humidity-sensor-dht22.html|
+|<img src="https://grobotronics.com/images/thumbnails/350/350/detailed/106/moisture_grobo.jpg" style="width:30%;"></BR>Waveshare Αισθητήρας Υγρασίας Εδάφους|1|3.50|3.50|https://grobotronics.com/waveshare-moisture-sensor.html|
+|<img src="https://grobotronics.com/images/thumbnails/350/350/detailed/115/632b945ec2738526_grobo.jpg" style="width:30%;"></BR>Αισθητήρας Υπερήχων 2 - 450cm HY-SRF05|1|3.60|3.60|https://grobotronics.com/ultrasonic-sensor-ranging-detector-2-450cm-hy-srf05.html|
+|<img src="https://grobotronics.com/images/thumbnails/350/350/detailed/113/1-58_grobo.jpg" style="width:30%;"></BR>Βάση Στήριξης για Αισθητήρα Υπερήχων|1|0.60|0.60|https://grobotronics.com/mounting-bracket-for-ultrasonic-sensor.html </BR> https://grobotronics.com/mounting-bracket-for-ultrasonic.html|
+|<img src="https://grobotronics.com/images/thumbnails/350/350/detailed/103/sku121943b_grobo.jpg" style="width:30%;"></BR>Αισθητήρας Βροχής|1|1.80|1.80|https://grobotronics.com/rain-sensor-module.html|
+|<img src="https://grobotronics.com/images/thumbnails/350/350/detailed/118/hfe4c15bd1f4446558cd29e1a1951516ca_grobo.jpg" style="width:30%;"></BR>Servo Standard 35kg.cm Metal Gears (Feetech FT5330M)|2|19.90|39.80|https://grobotronics.com/servo-standard-35kg.cm-metal-gears-feetech-ft5330m.html|
+|<img src="https://grobotronics.com/images/thumbnails/350/350/detailed/121/mk6-4.5-112_grobo.jpg" style="width:30%;"></BR>Μπαταρία Μολύβδου 12V 5Ah|1|12.40|12.40|https://grobotronics.com/lead-acid-battery-12v-4.5ah.html|
+|<img src="https://grobotronics.com/images/thumbnails/350/350/detailed/114/026d246e73a505b4c0bea2d7d0f6723c_grobo.jpg" style="width:30%;"></BR>Funduino Mega2560 Rev3 (Arduino Mega Compatible)|1|29.90|29.90|https://grobotronics.com/funduino-mega2560-rev3-arduino-mega-compatible.html|
+|<img src="https://grobotronics.com/images/thumbnails/350/350/detailed/4/sp-10w-m_grobo.jpg" style="width:30%;"></BR>Φωτοβολταϊκή Κυψέλη 10W 33x29cm|1|19.90|19.90|https://grobotronics.com/fotoboltaiki-kypseli-10w-33x29cm.html|
+|<img src="https://grobotronics.com/images/thumbnails/350/350/detailed/115/24v-12v-auto-solar-panel-battery-charge-controller-30a-20a-10a-pwm-lcd-display-solar-collector_grobo.jpg" style="width:30%;"></BR>Solar Battery Charger Regulator 10A - Dual USB|1|13.00|13.00|https://grobotronics.com/solar-battery-charger-regulator-10a-dual-usb.html|
+|<img src="https://grobotronics.com/images/thumbnails/350/350/detailed/115/11017pump-removebg-preview_grobo.jpg" style="width:30%;"></BR>Peristaltic Liquid Pump 12V DC|1|8.60|8.60|https://grobotronics.com/peristaltic-liquid-pump-12v-dc.html|
+|<img src="https://grobotronics.com/images/thumbnails/350/350/detailed/116/ddc5c82f8d0f66841ca4326195bc4956v2_grobo.jpg" style="width:30%;"></BR>Relay Module - 1 Channel 5V Low Level Trigger|2|1.50|3.00|https://grobotronics.com/relay-module-1-channel-5v-high-level-trigger.html|
 ||||||
-||||||
-||||||
-|||Σύνολο|115.5||
+|||Σύνολο|148.5||
 |||||| 
   
 </div>
