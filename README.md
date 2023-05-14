@@ -24,9 +24,14 @@
 
 ### Μαθητές
 
-*   Α
-*   Ρ
-*   Σ
+*   Μανούσακας Κωνσταντίνος
+*   Μπαλή Ελένη
+*   Μπεκιάρης Βασίλης
+*   Μοχάμαντ Φαισάλ
+*   Παναγιωτάκη Σοφία
+*   Σαμιώτη Ελένη
+*   Στραβοπόδης Ιωάννης
+*   Φρατζεσκάκης Νίκος
 
 </div>
 
@@ -36,9 +41,9 @@
 
 ## Σενάριο δραστηριότητας
 
-Αριθμός μαθητών: 11  
-Αριθμός Ομάδων: 5  
-Αριθμός ατόμων ανά ομάδα: 2-3  
+Αριθμός μαθητών: 8  
+Αριθμός Ομάδων: 4  
+Αριθμός ατόμων ανά ομάδα: 2  
 Είδος δραστηριότητας: Ομαδοσυνεργατική  
 Ρόλοι: Δεν υπάρχουν διακριτοί ρόλοι στην ομάδα.  
 Ηλικιακή ομάδα: 12-15  
@@ -473,7 +478,14 @@ void loop() {
 ### Υλικό για μελέτη και τρόπος σύνδεσης
 
 
-[![Everything Is AWESOME](https://img.youtube.com/vi/5iOG3Ko9OCY/0.jpg)](https://www.youtube.com/watch?v=5iOG3Ko9OCY "Everything Is AWESOME") [![Everything Is AWESOME](https://img.youtube.com/vi/mwsASZ3K-RQ/0.jpg)](https://www.youtube.com/watch?v=mwsASZ3K-RQ "Everything Is AWESOME")
+<div align="left">
+      <a href="">
+         <img src="" style="width:30%;">
+      </a>
+    <a href="">
+         <img src="" style="width:30%;">
+      </a>
+</div>
 
   
 </div>
@@ -486,7 +498,7 @@ void loop() {
 
 
 
-### Εργαστήριο πληροφορικής
+### Εργαστήριο πληροφορικής - Προγραμματισμός και σύνδεση αισθητήρων
   
 |||||
 |---|---|---|---|
@@ -494,7 +506,35 @@ void loop() {
 |<img src="/Photos/5.jpg" alt="" width="200" height="200"/>|<img src="/Photos/6.jpg" alt="" width="200" height="200"/>|<img src="/Photos/7.jpg" alt="" width="200" height="200"/>|<img src="/Photos/8.jpg" alt="" width="200" height="200"/>|
 |<img src="/Photos/9.jpg" alt="" width="200" height="200"/>|<img src="/Photos/10.jpg" alt="" width="200" height="200"/>|<img src="/Photos/11.jpg" alt="" width="200" height="200"/>|<img src="/Photos/12.jpg" alt="" width="200" height="200"/>|
 |<img src="/Photos/13.jpg" alt="" width="200" height="200"/>|<img src="/Photos/14.jpg" alt="" width="200" height="200"/>|<img src="/Photos/15.jpg" alt="" width="200" height="200"/>|<img src="/Photos/16.jpg" alt="" width="200" height="200"/>|
+|<img src="/Photos/17.jpg" alt="" width="200" height="200"/>|<img src="/Photos/18.jpg" alt="" width="200" height="200"/>|<img src="/Photos/19.jpg" alt="" width="200" height="200"/>|<img src="/Photos/20.jpg" alt="" width="200" height="200"/>|
   
+
   
+### Εκπαιδευτική επίσκεψη στο Μεσογειακό Αγρονομικό Ινστιτούτο Χανίων (ΜΑΙΧ)
+  
+|||||
+|---|---|---|---|
+|<img src="/Photos/21.png" alt="" width="200" height="200"/>|<img src="/Photos/22.png" alt="" width="200" height="200"/>|<img src="/Photos/23.jpg" alt="" width="200" height="200"/>|<img src="/Photos/24.jpg" alt="" width="200" height="200"/>|
+|<img src="/Photos/25.jpg" alt="" width="200" height="200"/>|<img src="/Photos/26.jpg" alt="" width="200" height="200"/>|<img src="/Photos/27.jpg" alt="" width="200" height="200"/>|<img src="/Photos/28.jpg" alt="" width="200" height="200"/>|
+|<img src="/Photos/29.jpg" alt="" width="200" height="200"/>|<img src="/Photos/30.jpg" alt="" width="200" height="200"/>|<img src="/Photos/31.jpg" alt="" width="200" height="200"/>|<img src="/Photos/32.jpg" alt="" width="200" height="200"/>|
+|<img src="/Photos/33.jpg" alt="" width="200" height="200"/>|<img src="/Photos/34.jpg" alt="" width="200" height="200"/>|<img src="/Photos/35.jpg" alt="" width="200" height="200"/>|<img src="/Photos/36.jpg" alt="" width="200" height="200"/>|
+   
 </div>
 
+### Εργαστήριο πληροφορικής - Κατασκευή Θερμοκηπίου
+  
+|||||
+|---|---|---|---|
+|<img src="" alt="" width="200" height="200"/>|<img src="" alt="" width="200" height="200"/>|<img src="" alt="" width="200" height="200"/>|<img src="" alt="" width="200" height="200"/>|
+|||||
+|||||
+
+### Εργαστήριο πληροφορικής - Δοκιμές και παραμετροποίηση
+  
+|||||
+|---|---|---|---|
+|<img src="" alt="" width="200" height="200"/>|<img src="" alt="" width="200" height="200"/>|<img src="" alt="" width="200" height="200"/>|<img src="" alt="" width="200" height="200"/>|
+|||||
+|||||
+
+### Εργαστήριο πληροφορικής - Βίντεο παρουσίαση
