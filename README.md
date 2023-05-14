@@ -273,7 +273,7 @@ https://docs.arduino.cc/learn/electronics/servo-motors
 
 https://www.instructables.com/Arduino-Servo-Motors/
 
-[![Everything Is AWESOME](https://img.youtube.com/vi/SfmHNb5QAzc/0.jpg)](https://www.youtube.com/watch?v=SfmHNb5QAzc "Everything Is AWESOME") [![Everything Is AWESOME](https://img.youtube.com/vi/C_pWNQ6H9EE/0.jpg)](https://www.youtube.com/watch?v=C_pWNQ6H9EE "Everything Is AWESOME")
+[![ ](https://img.youtube.com/vi/SfmHNb5QAzc/0.jpg)](https://www.youtube.com/watch?v=SfmHNb5QAzc " ") [![ ](https://img.youtube.com/vi/C_pWNQ6H9EE/0.jpg)](https://www.youtube.com/watch?v=C_pWNQ6H9EE " ")
 
 <img src="https://www.makerguides.com/wp-content/uploads/2020/08/servo-motor-with-arduino-uno-wiring-diagram-schematic-circuit-tutorial-featured-image.png" alt="" width="600" height="400"/>
   
