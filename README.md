@@ -458,11 +458,173 @@ void loop() {
 
 # $\fbox{Τελικός κώδικας}$
 
+### Τελικός κώδικας ultrasonic - servo
+```C
+#include <EasyUltrasonic.h>
+#include <Servo.h>
 
+#define TRIGPIN 5 // Digital pin connected to the trig pin of the ultrasonic sensor
+#define ECHOPIN 6 // Digital pin connected to the echo pin of the ultrasonic sensor
+Servo waterservo;
+
+EasyUltrasonic ultrasonic; // Create the ultrasonic object
+
+void setup() {
+  Serial.begin(9600); // Open the serial port
+
+  ultrasonic.attach(TRIGPIN, ECHOPIN); // Attaches the ultrasonic sensor on the specified pins on the ultrasonic object
+  waterservo.attach(9);
+}
+
+void loop() {
+  float distanceCM = ultrasonic.getDistanceCM(); // Read the distance in centimeters
+
+  Serial.print(distanceCM);
+  Serial.println(" cm");
+
+  delay(2000);
+
+  if (distanceCM>50){
+    waterservo.write(90);
+
+
+  }else
+  {
+    waterservo.write(0);
+  }
+}
+
+```
+
+
+### Τελικός κώδικας HDT22 - FAN
+  
+```C
+#include <SimpleDHT.h>
+
+int pinDHT22 = 2;
+SimpleDHT22 dht22(pinDHT22);
+
+byte temperature = 0;
+byte humidity = 0;
+int values = SimpleDHTErrSuccess;
+//float hum =0;
+
+
+void setup() {
+
+  Serial.begin(115000);
+   pinMode(2,INPUT);
+   pinMode(7,OUTPUT);
+
+  //digitalWrite(3,LOW);
+
+ 
+}
+
+void loop() {
+
+  values = dht22.read(&temperature, &humidity, NULL);
+  //hum = therm.getHumidity();
+
+  Serial.print("Η θερμοκρασία είναι:");
+  Serial.println(temperature);
+  Serial.print("Η Υγρασία είναι:");
+  Serial.println(humidity);
+
+  if (humidity>80){
+    digitalWrite(7,HIGH);
+
+
+  }else
+    {
+
+          digitalWrite(7,LOW);
+
+    }
+  delay(2000);
+    
+}
+  
+```
+  
+### Τελικός κώδικας RAIN SENSOR - SERVO
+
+```C
+#include <Servo.h>
+
+Servo waterservo;
+int rain;
+
+void setup() {
+  Serial.begin(9600); // Open the serial port
+  pinMode(A0,INPUT);
+  waterservo.attach(9);
+}
+
+void loop() {
+ 
+  rain = analogRead(A0);
+  Serial.println(rain);
+  
+  delay(2000);
+
+  if (rain>800){
+    waterservo.write(90);
+
+
+  }else
+  {
+    waterservo.write(0);
+  }
+}
+
+  
+```
+  
+### Τελικός κώδικας SOIL SENSOR - RELAY - WATER PUMP
+  
+```C
+int soil;
+
+void setup() {
+  Serial.begin(9600); // Open the serial port
+  pinMode(A1,INPUT);
+  pinMode(10,OUTPUT);
+  
+}
+
+void loop() {
+ 
+  soil = analogRead(A1);
+  Serial.println(soil);
+  
+  delay(2000);
+
+  if (soil>800){
+    digitalWrite(10,LOW);
+
+
+  }else
+  {
+    digitalWrite(10,HIGH);
+  }
+}
+
+  
+```
 
 ### Διάγραμμα ροής
   
 <img src="/images/flower power flowchart.png" alt="" width="300" height="700"/>
+  
+  
+  
+ ### Τελικός κώδικας ενιαίο
+  
+```C
+
+```
   
 </div>
 
