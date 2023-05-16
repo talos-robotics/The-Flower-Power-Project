@@ -632,20 +632,27 @@ void loop() {
 <div>
 
 # $\fbox{Advanced programming για τον εκπαιδευτικό πληροφορικής ή για ΕΠΑΛ}$
+  
+  ### Nodemcu esp8266 - access point and web server (serial communication arduino uno to esp)
 
-<img src="https://randomnerdtutorials.com/wp-content/uploads/2020/10/ESP8266-NodeMCU-ESPAsyncWebServer-library-control-outputs-web-server-Arduino.jpg" alt="" width="200" height="200"/>
-
-### Nodemcu esp8266 - access point and web server (serial communication arduino uno to esp)
+<img src="https://randomnerdtutorials.com/wp-content/uploads/2020/10/ESP8266-NodeMCU-ESPAsyncWebServer-library-control-outputs-web-server-Arduino.jpg" alt="" width="300" height="200"/>
 
 
-<div align="left">
-      <a href="">
-         <img src="" style="width:30%;">
-      </a>
-    <a href="">
-         <img src="" style="width:30%;">
-      </a>
-</div>
+### Σύνδεση
+  <img src="/images/advance.png" alt="" width="600" height="700"/>
+  
+### Κώδικας nodemcu
+  
+  ```C
+
+```
+  
+  
+  ### Κώδικας uno
+  
+  ```C
+
+```
 
   
 </div>
@@ -654,21 +661,11 @@ void loop() {
   
   <div>
 
-# $\fbox{App Inventor Serial port programming}$
+# $\fbox{Πρόταση για αναβάθμιση με App Inventor Serial port programming}$
 
-<img src="https://appinventor.mit.edu/images/logo.png" alt="" width="200" height="200"/>
+<img src="https://appinventor.mit.edu/images/logo.png" alt="" width="400" height="200"/>
 
-### Υλικό για μελέτη και τρόπος σύνδεσης
-
-
-<div align="left">
-      <a href="">
-         <img src="" style="width:30%;">
-      </a>
-    <a href="">
-         <img src="" style="width:30%;">
-      </a>
-</div>
+Θα μπορούσε να δημιουργηθεί μια εφαρμογή με το app inventor όπου θα συνδέεται με το arduino μέσο καλωδίου usb και να επικοινωνεί με τη σειριακή θύρα του μικροελεγκτή. Με αυτό τον τρόπο θα έχουμε ένα πάνελ που θα περιέχει τις πληροφορίες του θερμοκηπίου και θα μπορούσαμε να έχουμε και κουμπιά ελέγχου για χειροκίνητη ενεργοποίηση αισθητήρων. Τέλος με αυτό τον τρόπο θα μπορούμε να έχουμε συναγερμούς που θα μπορούν να μας ειδοποιούν για τις ανάγκες του φυτού ή επικίνδυνες καταστάσεις για το φυτό αυτό.
 
   
 </div>
