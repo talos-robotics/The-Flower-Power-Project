@@ -631,6 +631,29 @@ void loop() {
 
 <div>
 
+# $\fbox{Advanced programming για τον εκπαιδευτικό πληροφορικής ή για ΕΠΑΛ}$
+
+<img src="https://randomnerdtutorials.com/wp-content/uploads/2020/10/ESP8266-NodeMCU-ESPAsyncWebServer-library-control-outputs-web-server-Arduino.jpg" alt="" width="200" height="200"/>
+
+### Nodemcu esp8266 - access point and web server (serial communication arduino uno to esp)
+
+
+<div align="left">
+      <a href="">
+         <img src="" style="width:30%;">
+      </a>
+    <a href="">
+         <img src="" style="width:30%;">
+      </a>
+</div>
+
+  
+</div>
+
+
+  
+  <div>
+
 # $\fbox{App Inventor Serial port programming}$
 
 <img src="https://appinventor.mit.edu/images/logo.png" alt="" width="200" height="200"/>
@@ -650,7 +673,10 @@ void loop() {
   
 </div>
 
-
+  
+  
+  
+  
 
 <div>
 
