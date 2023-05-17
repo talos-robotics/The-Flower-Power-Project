@@ -803,10 +803,13 @@ void loop() {
   
 |||||
 |---|---|---|---|
-|<img src="/Photos/21.png" alt="" width="200" height="200"/>|<img src="/Photos/22.png" alt="" width="200" height="200"/>|<img src="/Photos/23.jpg" alt="" width="200" height="200"/>|<img src="/Photos/24.jpg" alt="" width="200" height="200"/>|
+|<img src="/Photos/21.jpg" alt="" width="200" height="200"/>|<img src="/Photos/22.jpg" alt="" width="200" height="200"/>|<img src="/Photos/23.jpg" alt="" width="200" height="200"/>|<img src="/Photos/24.jpg" alt="" width="200" height="200"/>|
 |<img src="/Photos/25.jpg" alt="" width="200" height="200"/>|<img src="/Photos/26.jpg" alt="" width="200" height="200"/>|<img src="/Photos/27.jpg" alt="" width="200" height="200"/>|<img src="/Photos/28.jpg" alt="" width="200" height="200"/>|
 |<img src="/Photos/29.jpg" alt="" width="200" height="200"/>|<img src="/Photos/30.jpg" alt="" width="200" height="200"/>|<img src="/Photos/31.jpg" alt="" width="200" height="200"/>|<img src="/Photos/32.jpg" alt="" width="200" height="200"/>|
-|<img src="/Photos/33.jpg" alt="" width="200" height="200"/>|<img src="/Photos/34.jpg" alt="" width="200" height="200"/>|<img src="/Photos/35.jpg" alt="" width="200" height="200"/>|<img src="/Photos/36.jpg" alt="" width="200" height="200"/>|
+|<img src="/Photos/33.jpg" alt="" width="200" height="200"/>|<img src="/Photos/45.jpg" alt="" width="200" height="200"/>|<img src="/Photos/35.jpg" alt="" width="200" height="200"/>|<img src="/Photos/36.jpg" alt="" width="200" height="200"/>|
+|<img src="/Photos/37.jpg" alt="" width="200" height="200"/>|<img src="/Photos/38.jpg" alt="" width="200" height="200"/>|<img src="/Photos/39.jpg" alt="" width="200" height="200"/>|<img src="/Photos/40.jpg" alt="" width="200" height="200"/>|
+|<img src="/Photos/41.jpg" alt="" width="200" height="200"/>|<img src="/Photos/42.jpg" alt="" width="200" height="200"/>|<img src="/Photos/43.jpg" alt="" width="200" height="200"/>|<img src="/Photos/44.jpg" alt="" width="200" height="200"/>|
+|||||
    
 </div>
 
@@ -827,3 +830,22 @@ void loop() {
 |||||
 
 ### Εργαστήριο πληροφορικής - Βίντεο παρουσίαση
+  
+  
+
+  <div>
+
+# $\fbox{ΕΥΧΑΡΙΣΤΙΕΣ}$
+
+<img src="https://www.frodida.org/Cache/Photos/cb522ea0d908baf06b20ab5ba3acfde9.png" alt="" width="400" height="200"/>
+
+Ευχαριστούμε θερμά για την πολύτιμη βοήθεια και προσφορά τους.
+    
+Τον κύριο Πρεκατσάκη Γιώργο 
+(Υπεύθυνο εργαστηρίου εδαφολογίας και διαγνωστικής φυτών στο Μεσογειακό Αγρονομικό Ινστιτούτο Χανίων)
+
+
+  
+</div>
+
+ 
