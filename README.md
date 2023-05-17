@@ -120,7 +120,7 @@ https://circuitdigest.com/microcontroller-projects/interfacing-rain-sensor-with-
 
 </div>
 
-### Κώδικας
+### Παράδειγμα κώδικα
 
 ```C 
 
@@ -179,7 +179,7 @@ https://www.hackster.io/mafzal/temperature-monitoring-with-dht22-arduino-15b013
 
 </div>
 
-### Κώδικας
+### Παράδειγμα κώδικα
 
 ```C 
 
@@ -257,7 +257,7 @@ https://arduinogetstarted.com/tutorials/arduino-soil-moisture-sensor
   
 </div>
 
-### Κώδικας
+### Παράδειγμα κώδικα
 
 ```C
 
@@ -313,7 +313,7 @@ https://www.instructables.com/Arduino-Servo-Motors/
   
 </div>
 
-### Κώδικας
+### Παράδειγμα κώδικα
 
 ```C 
 
@@ -368,7 +368,7 @@ https://www.hackster.io/Nicholas_N/distance-measurement-with-an-ultrasonic-senso
  
 </div>
 
-### Κώδικας
+### Παράδειγμα κώδικα
 
 ```C 
 const unsigned int TRIG_PIN=13;
@@ -432,7 +432,7 @@ https://arduinogetstarted.com/tutorials/arduino-relay
     
 </div>
 
-### Κώδικας
+### Παράδειγμα κώδικα
 
 ```C
 
@@ -470,10 +470,10 @@ https://electronicsprojectshub.com/interfacing-mq-135-gas-sensor-with-arduino/
 
   <div align="left">
       <a href="https://www.youtube.com/watch?v=PQZ8cj2m2FY">
-         <img src="https://www.youtube.com/watch?v=PQZ8cj2m2FY/0.jpg" style="width:30%;">
+         <img src="https://img.youtube.com/vi/PQZ8cj2m2FY/0.jpg" style="width:30%;">
       </a>
     <a href="https://www.youtube.com/watch?v=qcNfXSe9CTI">
-         <img src="https://www.youtube.com/watch?v=qcNfXSe9CTI/0.jpg" style="width:30%;">
+         <img src="https://img.youtube.com/vi/qcNfXSe9CTI/0.jpg" style="width:30%;">
       </a>
 </div>
   
@@ -482,7 +482,7 @@ https://electronicsprojectshub.com/interfacing-mq-135-gas-sensor-with-arduino/
     
 </div>
 
-### Κώδικας
+### Παράδειγμα κώδικα
 
 ```C
 
@@ -673,6 +673,37 @@ void loop() {
 }
 
   
+```
+  
+### Τελικός κώδικας MQ135 - CO2
+```C
+#define RLOAD 22.0
+#include "MQ135.h"
+//#include <SPI.h>
+
+MQ135 gasSensor = MQ135(A0);
+int val;
+int sensorPin = A0;
+//int sensorValue = 0;
+void setup() {
+  Serial.begin(9600);
+  pinMode(sensorPin, INPUT);
+}
+
+void loop() {
+  val = analogRead(A0);
+  Serial.print ("raw = ");
+  Serial.println (val);
+ // float zero = gasSensor.getRZero();
+ // Serial.print ("rzero: ");
+  //Serial.println (zero);
+  float ppm = gasSensor.getPPM();
+  Serial.print ("ppm: ");
+  Serial.println (ppm);
+  
+  delay(4000);
+}
+
 ```
 
 ### Διάγραμμα ροής
