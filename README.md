@@ -89,8 +89,9 @@
 |<img src="https://grobotronics.com/images/thumbnails/350/350/detailed/115/24v-12v-auto-solar-panel-battery-charge-controller-30a-20a-10a-pwm-lcd-display-solar-collector_grobo.jpg" style="width:30%;"></BR>Solar Battery Charger Regulator 10A - Dual USB|1|13.00|13.00|https://grobotronics.com/solar-battery-charger-regulator-10a-dual-usb.html|
 |<img src="https://grobotronics.com/images/thumbnails/350/350/detailed/115/11017pump-removebg-preview_grobo.jpg" style="width:30%;"></BR>Peristaltic Liquid Pump 12V DC|1|8.60|8.60|https://grobotronics.com/peristaltic-liquid-pump-12v-dc.html|
 |<img src="https://grobotronics.com/images/thumbnails/350/350/detailed/116/ddc5c82f8d0f66841ca4326195bc4956v2_grobo.jpg" style="width:30%;"></BR>Relay Module - 1 Channel 5V Low Level Trigger|2|1.50|3.00|https://grobotronics.com/relay-module-1-channel-5v-high-level-trigger.html|
+|<img src="https://grobotronics.com/images/thumbnails/350/350/detailed/113/mq-135-gas-sensor_l_1_5_grobo.jpg" style="width:30%;"></BR>Waveshare MQ-135 Gas Sensor Module|1|6.50|6.50|https://grobotronics.com/relay-module-1-channel-5v-high-level-trigger.html|
 ||||||
-|||Σύνολο|148.5||
+|||Σύνολο|155.0||
 |||||| 
   
 </div>
@@ -450,6 +451,66 @@ void loop() {
   delay(500);
   digitalWrite(RELAY_PIN, LOW);
   delay(500);
+}
+
+```
+
+
+# $\fbox{Αισθητήρας CO2}$
+
+<div>
+
+
+<img src="https://grobotronics.com/images/thumbnails/350/350/detailed/113/mq-135-gas-sensor_l_1_5_grobo.jpg" alt="" width="200" height="200"/>
+
+### Υλικό για μελέτη και τρόπος σύνδεσης
+
+https://electronicsprojectshub.com/interfacing-mq-135-gas-sensor-with-arduino/
+
+
+  <div align="left">
+      <a href="https://www.youtube.com/watch?v=PQZ8cj2m2FY">
+         <img src="https://www.youtube.com/watch?v=PQZ8cj2m2FY/0.jpg" style="width:30%;">
+      </a>
+    <a href="https://www.youtube.com/watch?v=qcNfXSe9CTI">
+         <img src="https://www.youtube.com/watch?v=qcNfXSe9CTI/0.jpg" style="width:30%;">
+      </a>
+</div>
+  
+<img src="https://hackster.imgix.net/uploads/attachments/449831/3-wiring_u2yOSV7PMG.jpg?auto=compress%2Cformat&w=900&h=675&fit=min" alt="" width="600" height="400"/>
+
+    
+</div>
+
+### Κώδικας
+
+```C
+
+#define RLOAD 22.0
+#include "MQ135.h"
+//#include <SPI.h>
+
+MQ135 gasSensor = MQ135(A0);
+int val;
+int sensorPin = A0;
+//int sensorValue = 0;
+void setup() {
+  Serial.begin(9600);
+  pinMode(sensorPin, INPUT);
+}
+
+void loop() {
+  val = analogRead(A0);
+  Serial.print ("raw = ");
+  Serial.println (val);
+ // float zero = gasSensor.getRZero();
+ // Serial.print ("rzero: ");
+  //Serial.println (zero);
+  float ppm = gasSensor.getPPM();
+  Serial.print ("ppm: ");
+  Serial.println (ppm);
+  
+  delay(4000);
 }
 
 ```
