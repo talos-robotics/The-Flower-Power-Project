@@ -840,12 +840,12 @@ void loop() {
   
 |||||
 |---|---|---|---|
-|<img src="/Photos/1.png" alt="" width="200" height="200"/>|<img src="/Photos/2.png" alt="" width="200" height="200"/>|<img src="/Photos/3.jpg" alt="" width="200" height="200"/>|<img src="/Photos/4.jpg" alt="" width="200" height="200"/>|
-|<img src="/Photos/5.jpg" alt="" width="200" height="200"/>|<img src="/Photos/6.jpg" alt="" width="200" height="200"/>|<img src="/Photos/7.jpg" alt="" width="200" height="200"/>|<img src="/Photos/8.jpg" alt="" width="200" height="200"/>|
-|<img src="/Photos/9.jpg" alt="" width="200" height="200"/>|<img src="/Photos/10.jpg" alt="" width="200" height="200"/>|<img src="/Photos/11.jpg" alt="" width="200" height="200"/>|<img src="/Photos/12.jpg" alt="" width="200" height="200"/>|
-|<img src="/Photos/13.jpg" alt="" width="200" height="200"/>|<img src="/Photos/14.jpg" alt="" width="200" height="200"/>|<img src="/Photos/15.jpg" alt="" width="200" height="200"/>|<img src="/Photos/16.jpg" alt="" width="200" height="200"/>|
-|<img src="/Photos/17.jpg" alt="" width="200" height="200"/>|<img src="/Photos/18.jpg" alt="" width="200" height="200"/>|<img src="/Photos/19.jpg" alt="" width="200" height="200"/>|<img src="/Photos/20.jpg" alt="" width="200" height="200"/>|
-|<img src="/Photos/47.jpg" alt="" width="200" height="200"/>|<img src="/Photos/48.jpg" alt="" width="200" height="200"/>|<img src="/Photos/49.jpg" alt="" width="200" height="200"/>||
+|<img src="/Photos/1.png" alt="" width="300" height="200"/>|<img src="/Photos/2.png" alt="" width="300" height="200"/>|<img src="/Photos/3.jpg" alt="" width="300" height="200"/>|<img src="/Photos/4.jpg" alt="" width="300" height="200"/>|
+|<img src="/Photos/5.jpg" alt="" width="300" height="200"/>|<img src="/Photos/6.jpg" alt="" width="300" height="200"/>|<img src="/Photos/7.jpg" alt="" width="300" height="200"/>|<img src="/Photos/8.jpg" alt="" width="300" height="200"/>|
+|<img src="/Photos/9.jpg" alt="" width="300" height="200"/>|<img src="/Photos/10.jpg" alt="" width="300" height="200"/>|<img src="/Photos/11.jpg" alt="" width="300" height="200"/>|<img src="/Photos/12.jpg" alt="" width="300" height="200"/>|
+|<img src="/Photos/13.jpg" alt="" width="300" height="200"/>|<img src="/Photos/14.jpg" alt="" width="300" height="200"/>|<img src="/Photos/15.jpg" alt="" width="300" height="200"/>|<img src="/Photos/16.jpg" alt="" width="300" height="200"/>|
+|<img src="/Photos/17.jpg" alt="" width="300" height="200"/>|<img src="/Photos/18.jpg" alt="" width="300" height="200"/>|<img src="/Photos/19.jpg" alt="" width="300" height="200"/>|<img src="/Photos/20.jpg" alt="" width="300" height="200"/>|
+|<img src="/Photos/47.jpg" alt="" width="300" height="200"/>|<img src="/Photos/48.jpg" alt="" width="300" height="200"/>|<img src="/Photos/49.jpg" alt="" width="300" height="200"/>||
   
 
   
@@ -853,12 +853,12 @@ void loop() {
   
 |||||
 |---|---|---|---|
-|<img src="/Photos/21.jpg" alt="" width="200" height="200"/>|<img src="/Photos/22.jpg" alt="" width="200" height="200"/>|<img src="/Photos/23.jpg" alt="" width="200" height="200"/>|<img src="/Photos/24.jpg" alt="" width="200" height="200"/>|
-|<img src="/Photos/25.jpg" alt="" width="200" height="200"/>|<img src="/Photos/26.jpg" alt="" width="200" height="200"/>|<img src="/Photos/27.jpg" alt="" width="200" height="200"/>|<img src="/Photos/28.jpg" alt="" width="200" height="200"/>|
-|<img src="/Photos/29.jpg" alt="" width="200" height="200"/>|<img src="/Photos/30.jpg" alt="" width="200" height="200"/>|<img src="/Photos/31.jpg" alt="" width="200" height="200"/>|<img src="/Photos/32.jpg" alt="" width="200" height="200"/>|
-|<img src="/Photos/33.jpg" alt="" width="200" height="200"/>|<img src="/Photos/45.jpg" alt="" width="200" height="200"/>|<img src="/Photos/35.jpg" alt="" width="200" height="200"/>|<img src="/Photos/36.jpg" alt="" width="200" height="200"/>|
-|<img src="/Photos/37.jpg" alt="" width="200" height="200"/>|<img src="/Photos/38.jpg" alt="" width="200" height="200"/>|<img src="/Photos/39.jpg" alt="" width="200" height="200"/>|<img src="/Photos/40.jpg" alt="" width="200" height="200"/>|
-|<img src="/Photos/41.jpg" alt="" width="200" height="200"/>|<img src="/Photos/42.jpg" alt="" width="200" height="200"/>|<img src="/Photos/43.jpg" alt="" width="200" height="200"/>|<img src="/Photos/44.jpg" alt="" width="200" height="200"/>|
+|<img src="/Photos/21.jpg" alt="" width="300" height="200"/>|<img src="/Photos/22.jpg" alt="" width="300" height="200"/>|<img src="/Photos/23.jpg" alt="" width="300" height="200"/>|<img src="/Photos/24.jpg" alt="" width="300" height="200"/>|
+|<img src="/Photos/25.jpg" alt="" width="300" height="200"/>|<img src="/Photos/26.jpg" alt="" width="300" height="200"/>|<img src="/Photos/27.jpg" alt="" width="300" height="200"/>|<img src="/Photos/28.jpg" alt="" width="300" height="200"/>|
+|<img src="/Photos/29.jpg" alt="" width="300" height="200"/>|<img src="/Photos/30.jpg" alt="" width="300" height="200"/>|<img src="/Photos/31.jpg" alt="" width="300" height="200"/>|<img src="/Photos/32.jpg" alt="" width="300" height="200"/>|
+|<img src="/Photos/33.jpg" alt="" width="300" height="200"/>|<img src="/Photos/45.jpg" alt="" width="300" height="200"/>|<img src="/Photos/35.jpg" alt="" width="300" height="200"/>|<img src="/Photos/36.jpg" alt="" width="300" height="200"/>|
+|<img src="/Photos/37.jpg" alt="" width="300" height="200"/>|<img src="/Photos/38.jpg" alt="" width="300" height="200"/>|<img src="/Photos/39.jpg" alt="" width="200" height="300"/>|<img src="/Photos/40.jpg" alt="" width="300" height="200"/>|
+|<img src="/Photos/41.jpg" alt="" width="300" height="200"/>|<img src="/Photos/42.jpg" alt="" width="300" height="200"/>|<img src="/Photos/43.jpg" alt="" width="300" height="200"/>|<img src="/Photos/44.jpg" alt="" width="300" height="200"/>|
 |||||
    
 </div>
@@ -867,7 +867,7 @@ void loop() {
   
 |||||
 |---|---|---|---|
-|<img src="" alt="" width="200" height="200"/>|<img src="" alt="" width="200" height="200"/>|<img src="" alt="" width="200" height="200"/>|<img src="" alt="" width="200" height="200"/>|
+|<img src="" alt="" width="300" height="200"/>|<img src="" alt="" width="300" height="200"/>|<img src="" alt="" width="300" height="200"/>|<img src="" alt="" width="300" height="200"/>|
 |||||
 |||||
 
@@ -875,7 +875,7 @@ void loop() {
   
 |||||
 |---|---|---|---|
-|<img src="" alt="" width="200" height="200"/>|<img src="" alt="" width="200" height="200"/>|<img src="" alt="" width="200" height="200"/>|<img src="" alt="" width="200" height="200"/>|
+|<img src="" alt="" width="300" height="200"/>|<img src="" alt="" width="300" height="200"/>|<img src="" alt="" width="300" height="200"/>|<img src="" alt="" width="300" height="200"/>|
 |||||
 |||||
 
