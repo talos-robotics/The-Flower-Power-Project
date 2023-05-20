@@ -93,6 +93,20 @@
 ||||||
 |||Σύνολο|155.0||
 |||||| 
+
+
+# Υλικά κατασκευής
+
+|Είδος|Ποσότητα|Τιμή Μονάδας|Σύνολο|Περιγραφή|
+|---|---|---|---|---|
+|<img src="https://i0.wp.com/monotikashop.gr/wp-content/uploads/2021/09/%CE%A0%CE%BF%CE%BB%CF%85%CE%BA%CE%B1%CF%81%CE%B2%CE%BF%CE%BD%CE%B9%CE%BA%CF%8C-%CF%86%CF%8D%CE%BB%CE%BB%CE%BF-%CE%BC%CE%B1%CF%83%CE%AF%CF%86-205%CE%A7610-3mm-%CE%B4%CE%B9%CE%AC%CF%86%CE%B1%CE%BD%CE%BF-%CF%80%CE%BF%CE%BB%CF%85%CE%BA%CE%B1%CF%81%CE%B2%CE%BF%CE%BD%CE%B9%CE%BA%CE%B1-%CF%86%CF%85%CE%BB%CE%BB%CE%B1-%CE%BC%CE%B1%CF%83%CE%B9%CF%86-monotika-shop.jpg?fit=503%2C503&ssl=1" style="width:30%;"></BR>Πολυκαρβονικό πλέξιγκλας διαστάσεις|6|0.0|0.0|https://epigrafeschania.gr/|
+|<img src="https://a.scdn.gr/images/sku_main_images/040629/40629701/xlarge_20230210102349_artelibre_menteses_epiplou_apo_metallo_mprountzino_04012545.jpeg" style="width:30%;"></BR>Μεντεσές|1|0.0|0.0||
+|<img src="https://www.xristoueshop.gr/media/catalog/product/cache/1/image/900x900/9df78eab33525d08d6e5fb8d27136e95/3/9/3915066558-o1.jpg" style="width:30%;"></BR>Μονταζόκολλα super ισχυρή Bison Montage KIT 66558 310ml|1|0.00|0.00||
+|<img src="https://www.johnart.gr/Catalogue/images/201402/alfer%2012140%20a.jpg" style="width:30%;"></BR>Γωνία PVC λευκή 2m|1|0.00|0.00||
+|<img src="" style="width:30%;"></BR>|1|0.00|0.00||
+||||||
+|||Σύνολο|0.0||
+|||||| 
   
 </div>
 
