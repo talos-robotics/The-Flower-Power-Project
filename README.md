@@ -971,7 +971,11 @@ void loop() {
 Τον κύριο Πρεκατσάκη Γιώργο 
 (Υπεύθυνο εργαστηρίου εδαφολογίας και διαγνωστικής φυτών στο Μεσογειακό Αγρονομικό Ινστιτούτο Χανίων)
 
-
+<img src="https://epigrafeschania.gr/wp-content/uploads/2018/01/IMAGE%CE%A0%CE%99%CE%93%CE%A1%CE%91%CE%A6%CE%95%CE%A3-LOGO.png" alt="" width="800" height="200"/>
+    
+https://epigrafeschania.gr/
+    
+Τον κύριο Βλαμάκη για την σχεδάαση και την κοπή των πολυκαρμπονικών τμημάτων.
   
 </div>
 
