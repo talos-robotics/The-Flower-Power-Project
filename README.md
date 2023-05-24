@@ -259,7 +259,7 @@ https://arduinogetstarted.com/tutorials/arduino-soil-moisture-sensor
       </a>
 </div>
 
-<img src="https://www.diyengineers.com/wp-content/uploads/2021/01/Soil-Moisture-Sensor-Connections.png" alt="" width="600" height="400"/>
+<img src="https://www.diyengineers.com/wp-content/uploads/2021/01/Soil-Moisture-Sensor-Connections.png" alt="" width="700" height="400"/>
   
 
   |||
@@ -379,7 +379,7 @@ https://www.hackster.io/Nicholas_N/distance-measurement-with-an-ultrasonic-senso
       </a>
 </div>
 
-<img src="https://www.makerguides.com/wp-content/uploads/2019/05/HC-SR04-ultrasonic-distance-sensor-with-Arduino-wiring-diagram-schematic-tutorial.jpg" alt="" width="600" height="400"/>
+<img src="https://www.makerguides.com/wp-content/uploads/2019/05/HC-SR04-ultrasonic-distance-sensor-with-Arduino-wiring-diagram-schematic-tutorial.jpg" alt="" width="800" height="400"/>
 
  
 </div>
@@ -869,7 +869,7 @@ void loop() {
 
 
 ### Σύνδεση
-  <img src="/images/advance.png" alt="" width="600" height="700"/>
+  <img src="/images/advance.png" alt="" width="600" height="550"/>
   
 ### Κώδικας nodemcu
   
@@ -971,7 +971,7 @@ void loop() {
 Τον κύριο Πρεκατσάκη Γιώργο 
 (Υπεύθυνο εργαστηρίου εδαφολογίας και διαγνωστικής φυτών στο Μεσογειακό Αγρονομικό Ινστιτούτο Χανίων)
 
-<img src="https://epigrafeschania.gr/wp-content/uploads/2018/01/IMAGE%CE%A0%CE%99%CE%93%CE%A1%CE%91%CE%A6%CE%95%CE%A3-LOGO.png" alt="" width="800" height="200"/>
+<img src="https://epigrafeschania.gr/wp-content/uploads/2018/01/IMAGE%CE%A0%CE%99%CE%93%CE%A1%CE%91%CE%A6%CE%95%CE%A3-LOGO.png" alt="" width="800" height="100"/>
     
 https://epigrafeschania.gr/
     
