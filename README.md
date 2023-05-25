@@ -938,12 +938,13 @@ void loop() {
 |<img src="/Photos/41.jpg" alt="" width="300" height="200"/>|<img src="/Photos/42.jpg" alt="" width="300" height="200"/>|<img src="/Photos/43.jpg" alt="" width="300" height="200"/>|<img src="/Photos/44.jpg" alt="" width="300" height="200"/>|
 |||||
    
-</div>
+
 
 ### Εργαστήριο πληροφορικής - Κατασκευή Θερμοκηπίου
   
 |||||
 |---|---|---|---|
+|<img src="/Photos/50.jpg" alt="" width="300" height="200"/>|<img src="/Photos/51.jpg" alt="" width="300" height="200"/>|<img src="" alt="" width="300" height="200"/>|<img src="" alt="" width="300" height="200"/>|
 |<img src="" alt="" width="300" height="200"/>|<img src="" alt="" width="300" height="200"/>|<img src="" alt="" width="300" height="200"/>|<img src="" alt="" width="300" height="200"/>|
 |||||
 |||||
@@ -958,7 +959,7 @@ void loop() {
 
 ### Εργαστήριο πληροφορικής - Βίντεο παρουσίαση
   
-  
+</div>  
 
   <div>
 
