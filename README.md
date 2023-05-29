@@ -862,7 +862,7 @@ void loop() {
 
 ### Διάγραμμα ροής
   
-<img src="/images/flowerpowerflowchart.png" alt="" width="300" height="700"/>
+<img src="/images/flowerpowerflowchart.jpg" alt="" width="300" height="700"/>
   
   
   
