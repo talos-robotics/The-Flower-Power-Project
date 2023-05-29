@@ -901,7 +901,7 @@ void loop() {
 |Vcc|->|5V|
 |Gnd|->|GND|
 |Data|->|D8|
-|CO2|||
+|<b>CO2</b>|||
 |Vcc|->|5V|
 |Gnd|->|GND|
 |Data|->|A2|
