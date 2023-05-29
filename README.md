@@ -865,7 +865,58 @@ void loop() {
 <img src="/images/flowerpowerflowchart.jpg" alt="" width="300" height="700"/>
   
   
-  
+ ### Σύνδεση
+   
+|Sensor side|->|Arduino side|
+|--|--|--|
+|<b>TMP22</b>|||
+|Vcc|->|5V|
+|Gnd|->|GND|
+|Data|->|D2|
+|<b>FAN</b>|||
+|Vcc|->|12V|
+|Gnd|->|GND|
+|Data|->|D10|
+|<b>SOIL SENSOR</b>|||
+|Vcc|->|5V|
+|Gnd|->|GND|
+|Data|->|A1|
+|<b>SERVO ROOF 1</b>|||
+|Vcc|->|5V|
+|Gnd|->|GND|
+|Data|->|D9|
+|<b>SERVO ROOF 2</b>|||
+|Vcc|->|5V|
+|Gnd|->|GND|
+|Data|->|D11|
+|<b>SERVO WATER TANK</b>|||
+|Vcc|->|5V|
+|Gnd|->|GND|
+|Data|->|D3|
+|<b>WATER PUMP PLANT</b>|||
+|Vcc|->|12V|
+|Gnd|->|GND|
+|Data|->|D7|
+|<b>WATER PUMP GROUND</b>|||
+|Vcc|->|5V|
+|Gnd|->|GND|
+|Data|->|D8|
+|CO2|||
+|Vcc|->|5V|
+|Gnd|->|GND|
+|Data|->|A2|
+|<b>TANK DISTANCE SENSOR</b>|||
+|Vcc|->|5V|
+|Gnd|->|GND|
+|Trig|->|D5|
+|Echo|->|D6|
+|<b>RAIN SENSOR</b>|||
+|Vcc|->|5V|
+|Gnd|->|GND|
+|Data|->|A0|
+   
+   
+   
  ### Τελικός κώδικας ενιαίο
   
 ```C
