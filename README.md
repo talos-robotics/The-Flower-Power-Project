@@ -87,11 +87,11 @@
 |<img src="https://grobotronics.com/images/thumbnails/350/350/detailed/114/026d246e73a505b4c0bea2d7d0f6723c_grobo.jpg" style="width:30%;"></BR>Funduino Mega2560 Rev3 (Arduino Mega Compatible)|1|29.90|29.90|https://grobotronics.com/funduino-mega2560-rev3-arduino-mega-compatible.html|
 |<img src="https://grobotronics.com/images/thumbnails/350/350/detailed/4/sp-10w-m_grobo.jpg" style="width:30%;"></BR>Φωτοβολταϊκή Κυψέλη 10W 33x29cm|1|19.90|19.90|https://grobotronics.com/fotoboltaiki-kypseli-10w-33x29cm.html|
 |<img src="https://grobotronics.com/images/thumbnails/350/350/detailed/115/24v-12v-auto-solar-panel-battery-charge-controller-30a-20a-10a-pwm-lcd-display-solar-collector_grobo.jpg" style="width:30%;"></BR>Solar Battery Charger Regulator 10A - Dual USB|1|13.00|13.00|https://grobotronics.com/solar-battery-charger-regulator-10a-dual-usb.html|
-|<img src="https://grobotronics.com/images/thumbnails/350/350/detailed/115/11017pump-removebg-preview_grobo.jpg" style="width:30%;"></BR>Peristaltic Liquid Pump 12V DC|1|8.60|8.60|https://grobotronics.com/peristaltic-liquid-pump-12v-dc.html|
+|<img src="https://grobotronics.com/images/thumbnails/350/350/detailed/115/11017pump-removebg-preview_grobo.jpg" style="width:30%;"></BR>Peristaltic Liquid Pump 12V DC|1|17.20|8.60|https://grobotronics.com/peristaltic-liquid-pump-12v-dc.html|
 |<img src="https://grobotronics.com/images/thumbnails/350/350/detailed/116/ddc5c82f8d0f66841ca4326195bc4956v2_grobo.jpg" style="width:30%;"></BR>Relay Module - 1 Channel 5V Low Level Trigger|2|1.50|3.00|https://grobotronics.com/relay-module-1-channel-5v-high-level-trigger.html|
 |<img src="https://grobotronics.com/images/thumbnails/350/350/detailed/113/mq-135-gas-sensor_l_1_5_grobo.jpg" style="width:30%;"></BR>Waveshare MQ-135 Gas Sensor Module|1|6.50|6.50|https://grobotronics.com/relay-module-1-channel-5v-high-level-trigger.html|
 ||||||
-|||Σύνολο|155.0||
+|||Σύνολο|163.6||
 |||||| 
 
 
@@ -944,7 +944,11 @@ void loop() {
   
 |||||
 |---|---|---|---|
-|<img src="/Photos/50.jpg" alt="" style="width: 100%; height: 100%;"/>|<img src="/Photos/51.jpg" alt="" style="width: 100%; height: 100%;"/>|<img src="" alt="" style="width: 100%; height: 100%;"/>|<img src="" alt="" style="width: 100%; height: 100%;"/>|
+|<img src="/Photos/50.jpg" alt="" style="width: 100%; height: 100%;"/>|<img src="/Photos/51.jpg" alt="" style="width: 100%; height: 100%;"/>|<img src="/Photos/52.jpg" alt="" style="width: 100%; height: 100%;"/>|<img src="/Photos/53.jpg" alt="" style="width: 100%; height: 100%;"/>|
+|<img src="/Photos/54.jpg" alt="" style="width: 100%; height: 100%;"/>|<img src="/Photos/55.jpg" alt="" style="width: 100%; height: 100%;"/>|<img src="/Photos/56.jpg" alt="" style="width: 100%; height: 100%;"/>|<img src="/Photos/57.jpg" alt="" style="width: 100%; height: 100%;"/>|
+|<img src="/Photos/58.jpg" alt="" style="width: 100%; height: 100%;"/>|<img src="/Photos/59.jpg" alt="" style="width: 100%; height: 100%;"/>|<img src="/Photos/60.jpg" alt="" style="width: 100%; height: 100%;"/>|<img src="/Photos/61.jpg" alt="" style="width: 100%; height: 100%;"/>|
+|<img src="/Photos/61.jpg" alt="" style="width: 100%; height: 100%;"/>|<img src="" alt="" style="width: 100%; height: 100%;"/>|<img src="" alt="" style="width: 100%; height: 100%;"/>|<img src="" alt="" style="width: 100%; height: 100%;"/>|
+|<img src="" alt="" style="width: 100%; height: 100%;"/>|<img src="" alt="" style="width: 100%; height: 100%;"/>|<img src="" alt="" style="width: 100%; height: 100%;"/>|<img src="" alt="" style="width: 100%; height: 100%;"/>|
 |<img src="" alt="" style="width: 100%; height: 100%;"/>|<img src="" alt="" style="width: 100%; height: 100%;"/>|<img src="" alt="" style="width: 100%; height: 100%;"/>|<img src="" alt="" style="width: 100%; height: 100%;"/>|
 |||||
 |||||
