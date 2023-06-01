@@ -1051,7 +1051,6 @@ void loop() {
 |---|---|---|---|
 |<img src="" alt="" style="width: 100%;"/>|<img src="" alt="" style="width: 100%;"/>|<img src="" alt="" style="width: 100%;"/>|<img src="" alt="" style="width: 100%;"/>|
 |||||
-|||||
 
 ### Εργαστήριο πληροφορικής - Βίντεο παρουσίαση
   
