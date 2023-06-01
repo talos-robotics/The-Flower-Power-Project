@@ -1012,8 +1012,8 @@ void loop() {
 |<img src="/Photos/13.jpg" alt="" style="width: 100%;"/>|<img src="/Photos/14.jpg" alt="" style="width: 100%;"/>|<img src="/Photos/15.jpg" alt="" style="width: 100%;"/>|<img src="/Photos/16.jpg" alt="" style="width: 100%;"/>|
 |<img src="/Photos/17.jpg" alt="" style="width: 100%;"/>|<img src="/Photos/18.jpg" alt="" style="width: 100%;"/>|<img src="/Photos/19.jpg" alt="" style="width: 100%;"/>|<img src="/Photos/20.jpg" alt="" style="width: 100%;"/>|
 |<img src="/Photos/47.jpg" alt="" style="width: 100%;"/>|<img src="/Photos/48.jpg" alt="" style="width: 100%;"/>|<img src="/Photos/49.jpg" alt="" style="width: 100%;"/>|<img src="/images/taloslogo.png" alt="" style="width: 100%;"/>|
+|||||  
   
-
   
 ### Εκπαιδευτική επίσκεψη στο Μεσογειακό Αγρονομικό Ινστιτούτο Χανίων (ΜΑΙΧ)
   
