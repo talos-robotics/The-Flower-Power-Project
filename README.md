@@ -1039,8 +1039,10 @@ void loop() {
 |<img src="/Photos/62.jpg" alt="" style="width: 100%; height: 100%;"/>|<img src="/Photos/63.jpg" alt="" style="width: 100%; height: 100%;"/>|<img src="/Photos/64.jpg" alt="" style="width: 100%; height: 100%;"/>|<img src="/Photos/65.jpg" alt="" style="width: 100%; height: 100%;"/>|
 |<img src="/Photos/66.jpg" alt="" style="width: 100%; height: 100%;"/>|<img src="/Photos/67.jpg" alt="" style="width: 100%; height: 100%;"/>|<img src="/Photos/68.jpg" alt="" style="width: 100%; height: 100%;"/>|<img src="/Photos/69.jpg" alt="" style="width: 100%; height: 100%;"/>|
 |<img src="/Photos/70.jpg" alt="" style="width: 100%; height: 100%;"/>|<img src="/Photos/71.jpg" alt="" style="width: 100%; height: 100%;"/>|<img src="/Photos/72.jpg" alt="" style="width: 100%; height: 100%;"/>|<img src="/Photos/73.jpg" alt="" style="width: 100%; height: 100%;"/>|
- |<img src="" alt="" style="width: 100%; height: 100%;"/>|<img src="" alt="" style="width: 100%; height: 100%;"/>|<img src="" alt="" style="width: 100%; height: 100%;"/>|<img src="" alt="" style="width: 100%; height: 100%;"/>|
-|||||
+ |<img src="/Photos/74.jpg" alt="" style="width: 100%; height: 100%;"/>|<img src="/Photos/75.jpg" alt="" style="width: 100%; height: 100%;"/>|<img src="/Photos/76.jpg" alt="" style="width: 100%; height: 100%;"/>|<img src="/Photos/77.jpg" alt="" style="width: 100%; height: 100%;"/>|
+   |<img src="/Photos/78.jpg" alt="" style="width: 100%; height: 100%;"/>|<img src="/Photos/79.jpg" alt="" style="width: 100%; height: 100%;"/>|<img src="/Photos/80.jpg" alt="" style="width: 100%; height: 100%;"/>|<img src="/Photos/81.jpg" alt="" style="width: 100%; height: 100%;"/>|
+   |<img src="/Photos/82.jpg" alt="" style="width: 100%; height: 100%;"/>|<img src="" alt="" style="width: 100%; height: 100%;"/>|<img src="" alt="" style="width: 100%; height: 100%;"/>|<img src="" alt="" style="width: 100%; height: 100%;"/>|
+  |<img src="" alt="" style="width: 100%; height: 100%;"/>|<img src="" alt="" style="width: 100%; height: 100%;"/>|<img src="" alt="" style="width: 100%; height: 100%;"/>|<img src="" alt="" style="width: 100%; height: 100%;"/>|
 |||||
 
 ### Εργαστήριο πληροφορικής - Δοκιμές και παραμετροποίηση
