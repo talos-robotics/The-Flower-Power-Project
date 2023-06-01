@@ -1006,12 +1006,12 @@ void loop() {
   
 |||||
 |---|---|---|---|
-|<img src="/Photos/1.png" alt="" style="width: 100%; height: 100%;"/>|<img src="/Photos/2.png" alt="" style="width: 100%; height: 100%;"/>|<img src="/Photos/3.jpg" alt="" style="width: 100%; height: 100%;"/>|<img src="/Photos/4.jpg" alt="" style="width: 100%; height: 100%;"/>|
-|<img src="/Photos/5.jpg" alt="" style="width: 100%; height: 100%;"/>|<img src="/Photos/6.jpg" alt="" style="width: 100%; height: 100%;"/>|<img src="/Photos/7.jpg" alt="" style="width: 100%; height: 100%;"/>|<img src="/Photos/8.jpg" alt="" style="width: 100%; height: 100%;"/>|
-|<img src="/Photos/9.jpg" alt="" style="width: 100%; height: 100%;"/>|<img src="/Photos/10.jpg" alt="" style="width: 100%; height: 100%;"/>|<img src="/Photos/11.jpg" alt="" style="width: 100%; height: 100%;"/>|<img src="/Photos/12.jpg" alt="" style="width: 100%; height: 100%;"/>|
-|<img src="/Photos/13.jpg" alt="" style="width: 100%; height: 100%;"/>|<img src="/Photos/14.jpg" alt="" style="width: 100%; height: 100%;"/>|<img src="/Photos/15.jpg" alt="" style="width: 100%; height: 100%;"/>|<img src="/Photos/16.jpg" alt="" style="width: 100%; height: 100%;"/>|
-|<img src="/Photos/17.jpg" alt="" style="width: 100%; height: 100%;"/>|<img src="/Photos/18.jpg" alt="" style="width: 100%; height: 100%;"/>|<img src="/Photos/19.jpg" alt="" style="width: 100%; height: 100%;"/>|<img src="/Photos/20.jpg" alt="" style="width: 100%; height: 100%;"/>|
-|<img src="/Photos/47.jpg" alt="" style="width: 100%; height: 100%;"/>|<img src="/Photos/48.jpg" alt="" style="width: 100%; height: 100%;"/>|<img src="/Photos/49.jpg" alt="" style="width: 100%; height: 100%;"/>||
+  |<img src="/Photos/1.png" alt="" style="width: 100%;"/>|<img src="/Photos/2.png" alt="" style="width: 100%;"/>|<img src="/Photos/3.jpg" alt="" style="width: 100%;"/>|<img src="/Photos/4.jpg" alt="" style="width: 100%;"/>|
+  |<img src="/Photos/5.jpg" alt="" style="width: 100%;"/>|<img src="/Photos/6.jpg" alt="" style="width: 100%;"/>|<img src="/Photos/7.jpg" alt="" style="width: 100%;"/>|<img src="/Photos/8.jpg" alt="" style="width: 100%;"/>
+  |<img src="/Photos/9.jpg" alt="" style="width: 100%;"/>|<img src="/Photos/10.jpg" alt="" style="width: 100%;"/>|<img src="/Photos/11.jpg" alt="" style="width: 100%;"/>|<img src="/Photos/12.jpg" alt="" style="width: 100%;"/>||
+|<img src="/Photos/13.jpg" alt="" style="width: 100%;"/>|<img src="/Photos/14.jpg" alt="" style="width: 100%;"/>|<img src="/Photos/15.jpg" alt="" style="width: 100%;"/>|<img src="/Photos/16.jpg" alt="" style="width: 100%;"/>|
+|<img src="/Photos/17.jpg" alt="" style="width: 100%;"/>|<img src="/Photos/18.jpg" alt="" style="width: 100%;"/>|<img src="/Photos/19.jpg" alt="" style="width: 100%;"/>|<img src="/Photos/20.jpg" alt="" style="width: 100%;"/>|
+|<img src="/Photos/47.jpg" alt="" style="width: 100%;"/>|<img src="/Photos/48.jpg" alt="" style="width: 100%;"/>|<img src="/Photos/49.jpg" alt="" style="width: 100%;"/>|<img src="/Photos/49.jpg" alt="" style="width: 100%;"/>|
   
 
   
@@ -1019,12 +1019,12 @@ void loop() {
   
 |||||
 |---|---|---|---|
-|<img src="/Photos/21.jpg" alt="" style="width: 100%; height: 100%;"/>|<img src="/Photos/22.jpg" alt="" style="width: 100%; height: 100%;"/>|<img src="/Photos/23.jpg" alt="" style="width: 100%; height: 100%;"/>|<img src="/Photos/24.jpg" alt="" style="width: 100%; height: 100%;"/>|
-|<img src="/Photos/25.jpg" alt="" style="width: 100%; height: 100%;"/>|<img src="/Photos/26.jpg" alt="" style="width: 100%; height: 100%;"/>|<img src="/Photos/27.jpg" alt="" style="width: 100%; height: 100%;"/>|<img src="/Photos/28.jpg" alt="" style="width: 100%; height: 100%;"/>|
-|<img src="/Photos/29.jpg" alt="" style="width: 100%; height: 100%;"/>|<img src="/Photos/30.jpg" alt="" style="width: 100%; height: 100%;"/>|<img src="/Photos/31.jpg" alt="" style="width: 100%; height: 100%;"/>|<img src="/Photos/32.jpg" alt="" style="width: 100%; height: 100%;"/>|
-|<img src="/Photos/33.jpg" alt="" style="width: 100%; height: 100%;"/>|<img src="/Photos/34.jpg" alt="" style="width: 100%; height: 100%;"/>|<img src="/Photos/35.jpg" alt="" style="width: 100%; height: 100%;"/>|<img src="/Photos/36.jpg" alt="" style="width: 100%; height: 100%;"/>|
-|<img src="/Photos/37.jpg" alt="" style="width: 100%; height: 100%;"/>|<img src="/Photos/38.jpg" alt="" style="width: 100%; height: 100%;"/>|<img src="/Photos/39.jpg" alt="" style="width: 100%; height: 100%;"/>|<img src="/Photos/40.jpg" alt="" style="width: 100%; height: 100%;"/>|
-|<img src="/Photos/41.jpg" alt="" style="width: 100%; height: 100%;"/>|<img src="/Photos/42.jpg" alt="" style="width: 100%; height: 100%;"/>|<img src="/Photos/43.jpg" alt="" style="width: 100%; height: 100%;"/>|<img src="/Photos/44.jpg" alt="" style="width: 100%; height: 100%;"/>|
+|<img src="/Photos/21.jpg" alt="" style="width: 100%;"/>|<img src="/Photos/22.jpg" alt="" style="width: 100%;"/>|<img src="/Photos/23.jpg" alt="" style="width: 100%;"/>|<img src="/Photos/24.jpg" alt="" style="width: 100%;"/>|
+|<img src="/Photos/25.jpg" alt="" style="width: 100%;"/>|<img src="/Photos/26.jpg" alt="" style="width: 100%;"/>|<img src="/Photos/27.jpg" alt="" style="width: 100%;;"/>|<img src="/Photos/28.jpg" alt="" style="width: 100%;"/>|
+|<img src="/Photos/29.jpg" alt="" style="width: 100%;"/>|<img src="/Photos/30.jpg" alt="" style="width: 100%;"/>|<img src="/Photos/31.jpg" alt="" style="width: 100%;"/>|<img src="/Photos/32.jpg" alt="" style="width: 100%;"/>|
+|<img src="/Photos/33.jpg" alt="" style="width: 100%;"/>|<img src="/Photos/34.jpg" alt="" style="width: 100%;"/>|<img src="/Photos/35.jpg" alt="" style="width: 100%;"/>|<img src="/Photos/36.jpg" alt="" style="width: 100%;"/>|
+|<img src="/Photos/37.jpg" alt="" style="width: 100%;"/>|<img src="/Photos/38.jpg" alt="" style="width: 100%;"/>|<img src="/Photos/39.jpg" alt="" style="width: 100%;"/>|<img src="/Photos/40.jpg" alt="" style="width: 100%;"/>|
+|<img src="/Photos/41.jpg" alt="" style="width: 100%;"/>|<img src="/Photos/42.jpg" alt="" style="width: 100%;"/>|<img src="/Photos/43.jpg" alt="" style="width: 100%;"/>|<img src="/Photos/44.jpg" alt="" style="width: 100%;"/>|
 |||||
    
 
@@ -1033,23 +1033,23 @@ void loop() {
   
 |||||
 |---|---|---|---|
-|<img src="/Photos/50.jpg" alt="" style="width: 100%; height: 100%;"/>|<img src="/Photos/51.jpg" alt="" style="width: 100%; height: 100%;"/>|<img src="/Photos/52.jpg" alt="" style="width: 100%; height: 100%;"/>|<img src="/Photos/53.jpg" alt="" style="width: 100%; height: 100%;"/>|
-|<img src="/Photos/54.jpg" alt="" style="width: 100%; height: 100%;"/>|<img src="/Photos/55.jpg" alt="" style="width: 100%; height: 100%;"/>|<img src="/Photos/56.jpg" alt="" style="width: 100%; height: 100%;"/>|<img src="/Photos/57.jpg" alt="" style="width: 100%; height: 100%;"/>|
-|<img src="/Photos/58.jpg" alt="" style="width: 100%; height: 100%;"/>|<img src="/Photos/59.jpg" alt="" style="width: 100%; height: 100%;"/>|<img src="/Photos/60.jpg" alt="" style="width: 100%; height: 100%;"/>|<img src="/Photos/61.jpg" alt="" style="width: 100%; height: 100%;"/>|
-|<img src="/Photos/62.jpg" alt="" style="width: 100%; height: 100%;"/>|<img src="/Photos/63.jpg" alt="" style="width: 100%; height: 100%;"/>|<img src="/Photos/64.jpg" alt="" style="width: 100%; height: 100%;"/>|<img src="/Photos/65.jpg" alt="" style="width: 100%; height: 100%;"/>|
-|<img src="/Photos/66.jpg" alt="" style="width: 100%; height: 100%;"/>|<img src="/Photos/67.jpg" alt="" style="width: 100%; height: 100%;"/>|<img src="/Photos/68.jpg" alt="" style="width: 100%; height: 100%;"/>|<img src="/Photos/69.jpg" alt="" style="width: 100%; height: 100%;"/>|
-|<img src="/Photos/70.jpg" alt="" style="width: 100%; height: 100%;"/>|<img src="/Photos/71.jpg" alt="" style="width: 100%; height: 100%;"/>|<img src="/Photos/72.jpg" alt="" style="width: 100%; height: 100%;"/>|<img src="/Photos/73.jpg" alt="" style="width: 100%; height: 100%;"/>|
- |<img src="/Photos/74.jpg" alt="" style="width: 100%; height: 100%;"/>|<img src="/Photos/75.jpg" alt="" style="width: 100%; height: 100%;"/>|<img src="/Photos/76.jpg" alt="" style="width: 100%; height: 100%;"/>|<img src="/Photos/77.jpg" alt="" style="width: 100%; height: 100%;"/>|
-   |<img src="/Photos/78.jpg" alt="" style="width: 100%; height: 100%;"/>|<img src="/Photos/79.jpg" alt="" style="width: 100%; height: 100%;"/>|<img src="/Photos/80.jpg" alt="" style="width: 100%; height: 100%;"/>|<img src="/Photos/81.jpg" alt="" style="width: 100%; height: 100%;"/>|
-   |<img src="/Photos/82.jpg" alt="" style="width: 100%; height: 100%;"/>|<img src="" alt="" style="width: 100%; height: 100%;"/>|<img src="" alt="" style="width: 100%; height: 100%;"/>|<img src="" alt="" style="width: 100%; height: 100%;"/>|
-  |<img src="" alt="" style="width: 100%; height: 100%;"/>|<img src="" alt="" style="width: 100%; height: 100%;"/>|<img src="" alt="" style="width: 100%; height: 100%;"/>|<img src="" alt="" style="width: 100%; height: 100%;"/>|
+|<img src="/Photos/50.jpg" alt="" style="width: 100%;"/>|<img src="/Photos/51.jpg" alt="" style="width: 100%;"/>|<img src="/Photos/52.jpg" alt="" style="width: 100%;"/>|<img src="/Photos/53.jpg" alt="" style="width: 100%;"/>|
+|<img src="/Photos/54.jpg" alt="" style="width: 100%; height: 100%;"/>|<img src="/Photos/55.jpg" alt="" style="width: 100%;"/>|<img src="/Photos/56.jpg" alt="" style="width: 100%;"/>|<img src="/Photos/57.jpg" alt="" style="width: 100%;"/>|
+|<img src="/Photos/58.jpg" alt="" style="width: 100%;"/>|<img src="/Photos/59.jpg" alt="" style="width: 100%;"/>|<img src="/Photos/60.jpg" alt="" style="width: 100%;"/>|<img src="/Photos/61.jpg" alt="" style="width: 100%;"/>|
+|<img src="/Photos/62.jpg" alt="" style="width: 100%;"/>|<img src="/Photos/63.jpg" alt="" style="width: 100%;"/>|<img src="/Photos/64.jpg" alt="" style="width: 100%;"/>|<img src="/Photos/65.jpg" alt="" style="width: 100%;"/>|
+|<img src="/Photos/66.jpg" alt="" style="width: 100%;"/>|<img src="/Photos/67.jpg" alt="" style="width: 100%;"/>|<img src="/Photos/68.jpg" alt="" style="width: 100%;"/>|<img src="/Photos/69.jpg" alt="" style="width: 100%;"/>|
+|<img src="/Photos/70.jpg" alt="" style="width: 100%;"/>|<img src="/Photos/71.jpg" alt="" style="width: 100%;"/>|<img src="/Photos/72.jpg" alt="" style="width: 100%;"/>|<img src="/Photos/73.jpg" alt="" style="width: 100%;"/>|
+ |<img src="/Photos/74.jpg" alt="" style="width: 100%;"/>|<img src="/Photos/75.jpg" alt="" style="width: 100%;"/>|<img src="/Photos/76.jpg" alt="" style="width: 100%;"/>|<img src="/Photos/77.jpg" alt="" style="width: 100%;"/>|
+   |<img src="/Photos/78.jpg" alt="" style="width: 100%;"/>|<img src="/Photos/79.jpg" alt="" style="width: 100%;"/>|<img src="/Photos/80.jpg" alt="" style="width: 100%;"/>|<img src="/Photos/81.jpg" alt="" style="width: 100%;"/>|
+   |<img src="/Photos/82.jpg" alt="" style="width: 100%;"/>|<img src="" alt="" style="width: 100%;"/>|<img src="" alt="" style="width: 100%;"/>|<img src="" alt="" style="width: 100%;"/>|
+  |<img src="" alt="" style="width: 100%;"/>|<img src="" alt="" style="width: 100%;"/>|<img src="" alt="" style="width: 100%;"/>|<img src="" alt="" style="width: 100%;"/>|
 |||||
 
 ### Εργαστήριο πληροφορικής - Δοκιμές και παραμετροποίηση
   
 |||||
 |---|---|---|---|
-|<img src="" alt="" style="width: 100%; height: 100%;"/>|<img src="" alt="" style="width: 100%; height: 100%;"/>|<img src="" alt="" style="width: 100%; height: 100%;"/>|<img src="" alt="" style="width: 100%; height: 100%;"/>|
+|<img src="" alt="" style="width: 100%;"/>|<img src="" alt="" style="width: 100%;"/>|<img src="" alt="" style="width: 100%;"/>|<img src="" alt="" style="width: 100%;"/>|
 |||||
 |||||
 
