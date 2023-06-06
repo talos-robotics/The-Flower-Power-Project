@@ -1044,14 +1044,15 @@ void loop() {
 |<img src="/Photos/82.jpg" alt="" style="width: 100%;"/>|<img src="/Photos/83.jpg" alt="" style="width: 100%;"/>|<img src="/Photos/91.jpg" alt="" style="width: 100%;"/>|<img src="/Photos/84.jpg" alt="" style="width: 100%;"/>|
 |<img src="/Photos/85.jpg" alt="" style="width: 100%;"/>|<img src="/Photos/86.jpg" alt="" style="width: 100%;"/>|<img src="/Photos/87.jpg" alt="" style="width: 100%;"/>|<img src="/Photos/88.jpg" alt="" style="width: 100%;"/>|
 |<img src="/Photos/89.jpg" alt="" style="width: 100%;"/>|<img src="/Photos/90.jpg" alt="" style="width: 100%;"/>|<img src="" alt="" style="width: 100%;"/>|<img src="" alt="" style="width: 100%;"/>|
-|<img src="" alt="" style="width: 100%;"/>|<img src="" alt="" style="width: 100%;"/>|<img src="" alt="" style="width: 100%;"/>|<img src="" alt="" style="width: 100%;"/>|
 |||||
 
-### Εργαστήριο πληροφορικής - Δοκιμές και παραμετροποίηση
+### Δοκιμές και παραμετροποίηση
   
 |||||
 |---|---|---|---|
-|<img src="" alt="" style="width: 100%;"/>|<img src="" alt="" style="width: 100%;"/>|<img src="" alt="" style="width: 100%;"/>|<img src="" alt="" style="width: 100%;"/>|
+|<img src="/Photos/92.jpg" alt="" style="width: 100%;"/>|<img src="/Photos/93.jpg" alt="" style="width: 100%;"/>|<img src="/Photos/94.jpg" alt="" style="width: 100%;"/>|<img src="/Photos/95.jpg" alt="" style="width: 100%;"/>|
+|<img src="/Photos/96.jpg" alt="" style="width: 100%;"/>|<img src="/Photos/97.jpg" alt="" style="width: 100%;"/>|<img src="/Photos/98.jpg" alt="" style="width: 100%;"/>|<img src="/Photos/99.jpg" alt="" style="width: 100%;"/>|
+|<img src="/Photos/100.jpg" alt="" style="width: 100%;"/>|<img src="" alt="" style="width: 100%;"/>|<img src="" alt="" style="width: 100%;"/>|<img src="" alt="" style="width: 100%;"/>|
 |||||
 
 ### Εργαστήριο πληροφορικής - Βίντεο παρουσίαση
