@@ -952,16 +952,145 @@ void loop() {
 ### Σύνδεση
   <img src="/images/advance.png" alt="" width="600" height="550"/>
   
-### Κώδικας nodemcu
+  
+  
+  ### Κώδικας mega
   
   ```C
+  
+  #include <SimpleDHT.h>
+#include <EasyUltrasonic.h>
+#include <Servo.h>
+#define RLOAD 22.0
+#include <MQ135.h>
 
-```
+SimpleDHT22 thetemp(2);
+EasyUltrasonic thedistance;
+Servo tankservo;
+Servo roofservo1;
+Servo roofservo2;
+
+MQ135 gasSensor = MQ135(A2);
+int val;
+
+byte temperature = 0;
+byte humidity = 0;
+int values = SimpleDHTErrSuccess;
+int rain;
+int soil;
+
+int plantSoil = 500;
+int plantTemp = 25 ;
+int plantMoistMin = 65;
+int plantMoistMax = 70;
+int plantPpm = 14500;
+
+#define TRIGPIN 5 
+#define ECHOPIN 6 
+
+void setup() {
+  Serial.begin(9600);
+  pinMode(2,INPUT); //temp
+  pinMode(9,OUTPUT); //roofservo1
+  pinMode(10,OUTPUT);// relay fan
+  pinMode(12,OUTPUT); //roofservo2
+  pinMode(A0,INPUT);//rain
+  pinMode(3,OUTPUT);//tankservo
+  pinMode(A1,INPUT);//soil
+  pinMode(7,OUTPUT);//relay water pump soil
+  pinMode(8,OUTPUT);//relay water pump moist ground
+  pinMode(A2, INPUT);//mq135
+
+  thedistance.attach(TRIGPIN, ECHOPIN);
+
+  tankservo.attach(3);
+  roofservo1.attach(9);
+  roofservo2.attach(12);
+}
+
+void loop() {
+
+
+ val = analogRead(A2);
+   // float zero = gasSensor.getRZero();
+ // Serial.print ("rzero: ");
+  //Serial.println (zero);
+  float ppm = gasSensor.getPPM();
   
+ 
+values = thetemp.read(&temperature, &humidity, NULL);
+
+rain = analogRead(A0);
+
+
+float distanceCM = thedistance.getDistanceCM();
+
+
+soil = analogRead(A1);
+
+Serial.print ("raw = ");
+Serial.println (val);
+Serial.print ("ppm: ");
+Serial.println (ppm);
+Serial.print("Η θερμοκρασία είναι:");
+Serial.println(temperature);
+Serial.print("Η Υγρασία είναι:");
+Serial.println(humidity);
+Serial.print("Βροχή:");
+Serial.println(rain);
+Serial.print(distanceCM);
+Serial.println(" cm");
+Serial.print("Χώμα:");
+Serial.println(soil);
+//Serial.print("#," + String(ppm) + "," + String(temperature) + "," + String(humidity) + "," + String(rain) + "," + String(distanceCM) + "," + String(soil) + "," + ",\n");
+Serial.print("#,1022,23,52,500,13,600,\n");
+Serial.flush();
+
+
+if (rain >= 500){
+  tankservo.write(180);
+    }
+
+
+if (distanceCM > 4 && rain < 500){
+      tankservo.write(0);
   
-  ### Κώδικας uno
+    }else
+    {
+      tankservo.write(180);
+    }
+
+if (temperature > plantTemp || (humidity >= plantMoistMin && humidity <= plantMoistMax) || ppm > plantPpm){
+  digitalWrite(10 , HIGH);
+  roofservo1.write(70);
+  roofservo2.write(110);
+  }else
+  {
+    digitalWrite(10 , LOW);
+    roofservo1.write(0);
+    roofservo2.write(180);
+    }
+
+if (soil > plantSoil ){
+  digitalWrite(7 , HIGH);
+  }else
+  {
+    digitalWrite(7 , LOW);
+    }
+
+if (humidity < plantMoistMin){
+
+    digitalWrite(8 , HIGH);
+    delay(4000);
+    digitalWrite(8 , LOW);
+
+}
   
-  ```C
+
+delay(4000);
+//tankservo.write(90);
+}
+
 
 ```
 
