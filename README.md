@@ -934,6 +934,7 @@ void loop() {
     
 * Στην ενότητα Advanced programming θα πρέπει να συνδέσετε και το GND καλώδιο, όπως υπάρχει στο σχέδιο. Σε αντίθετη περίπτωση η επικοινωνία μεταξύ των μικροελεγκτών θα παρουσιάζει πολλούς χαρακτήρες "σκουπίδια", και η επικοινωνία θα είναι πολύ ασταθής.
 
+* Ένα πολύ σημαντικό πρόβλημα που αντιμετωπίσαμε ήταν η τροφοδοσία του υλικού. Τα servo και οι αντλίες ήταν πολύ ενεργοβόρα με αποτέλεσμα να μην μπορεί να λειτουργήσει. Η λύση δόθηκε χρησιμοποιώντας step-down dc-dc ετσι ώστε να τα τροφοδοτήσουμε απο την μπαταρία των 12v και να κατεβάσουμε την τάση στα 5v. Προσοχή στο step-down να είναι περίπου 5 Amp.
   
 </div>
   
@@ -993,7 +994,7 @@ void setup() {
   pinMode(2,INPUT); //temp
   pinMode(9,OUTPUT); //roofservo1
   pinMode(10,OUTPUT);// relay fan
-  pinMode(12,OUTPUT); //roofservo2
+  pinMode(11,OUTPUT); //roofservo2
   pinMode(A0,INPUT);//rain
   pinMode(3,OUTPUT);//tankservo
   pinMode(A1,INPUT);//soil
@@ -1005,7 +1006,7 @@ void setup() {
 
   tankservo.attach(3);
   roofservo1.attach(9);
-  roofservo2.attach(12);
+  roofservo2.attach(11);
 }
 
 void loop() {
@@ -1184,11 +1185,20 @@ delay(4000);
 |<img src="/Photos/100.jpg" alt="" style="width: 100%;"/>|<img src="" alt="" style="width: 100%;"/>|<img src="" alt="" style="width: 100%;"/>|<img src="" alt="" style="width: 100%;"/>|
 |||||
 
-### Εργαστήριο πληροφορικής - Βίντεο παρουσίαση
-  
+ 
 </div>  
 
-  <div>
+### Εργαστήριο πληροφορικής - Βίντεο παρουσίαση
+  
+  <div align="left">
+      <a href="https://www.youtube.com/watch?v=Ull0fDcziHg">
+         <img src="https://img.youtube.com/vi/Ull0fDcziHg/0.jpg" style="width:50%;">
+      </a>
+ 
+</div>
+  
+  
+<div>
 
 # $\fbox{ΕΥΧΑΡΙΣΤΙΕΣ}$
 
