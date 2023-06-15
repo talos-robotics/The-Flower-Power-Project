@@ -919,6 +919,7 @@ void loop() {
 |Gnd|->|GND|
 |Data|->|A0|
    
+<img src="https://cdn.shopify.com/s/files/1/1641/0911/products/12v-24v-10203040a-solar-panel-battery-regulator-charge-controller-with-usb-outputs-228057_1200x1200.jpg?v=1594221369" alt="" width="70%"/>
    
    
 ### Τελικός κώδικας ενιαίο
